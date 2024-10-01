@@ -1,0 +1,334 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
+https://m1-117b.protect-cdn.net/live/m1-index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
+https://fdev.short.gy/IndVbanxRanapk.m3u8
+
+#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, NTv
+http://opplex.tv:8080/live/global/global/109984.ts
+
+#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, ten 3
+http://opplex.tv:8080/live/global/global/167572.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten sports
+http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 1
+http://opplex.tv:8080/live/global/global/167570.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
+http://opplex.tv:8080/live/global/global/167572.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport tv 1
+http://opplex.tv:8080/live/global/global/352930.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport 18 1
+http://opplex.tv:8080/live/global/global/382205.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", somoy tv
+http://opplex.tv:8080/live/global/global/245925.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", pink panther
+http://opplex.tv:8080/live/global/global/301503.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", wwe
+http://opplex.tv:8080/live/global/global/347336.ts
+
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha
+http://103.190.85.38/hls/starJalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", zee bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", jalsha movies
+http://opplex.tv:8080/live/global/global/245900.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", t sports
+http://103.190.85.38/hls/tsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 2
+http://103.190.85.38/hls/sony10.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", HBO HD
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", colors bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", zee tv hd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", movie bangla
+http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", Toofan
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", HBO
+http://212.102.60.231/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" group-title="all channels", WILLOW CRICKET
+http://xtv.ooo:8080/live/Galaxy.2/4321/167583.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", AND TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/thenayeemparvez.m3u8
+
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" group-title="sports", WILLOW EXTRA
+http://xtv.ooo:8080/live/Galaxy.2/4321/167582.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", SKY SPORTS MAIN EVENT
+http://b1g.uk:80/5193/5193/164493
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", SKY SPORTS CRICKET
+http://b1g.uk:80/5193/5193/261002
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS SELECT 1
+http://opplex.tv:8080/live/global/global/167578.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS SELECT 2
+http://opplex.tv:8080/live/global/global/167579.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SUN  TV 1
+http://z88.ubtvfans.com/live/rx4/1458/7e848ee93c1ee63c5b99dd70afa8bf47/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE TAMIL
+http://z88.ubtvfans.com/live/rx4/1460/3ef44a09d32b43a756d6831f4cfdfede/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", KTV TAMIL
+http://xtv.ooo:8080/live/Galaxy.2/4321/380961.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", GEO SUPER
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE ANMOL
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZING
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/thenayeemparvez.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE MARATHI
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparvez.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO
+http://217.20.112.199/pogo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", atn news
+http://opplex.tv:8080/live/global/global/245905.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MOHONA TV
+http://opplex.tv:8080/live/global/global/245920.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EKATTOR TV
+http://opplex.tv:8080/live/global/global/245915.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BANGLAVISION
+http://opplex.tv:8080/live/global/global/245957.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", INDEPENDENT TV
+http://opplex.tv:8080/live/global/global/245916.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SANGET BANGLA
+http://xtv.ooo:8080/live/927382370/837382809/245933.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MY TV
+http://xtv.ooo:8080/live/927382370/837382809/245964.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", JAMUNA TV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", LOONEY TUNES
+http://zeusplay.life:80/live/IVONE123/IVONE321/27188.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BEN 10
+http://zeusplay.life:80/live/IVONE123/IVONE321/27195.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POPEYE
+http://zeusplay.life:80/live/IVONE123/IVONE321/27224.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TOM AND JERRY
+http://zeusplay.life:80/live/IVONE123/IVONE321/59551.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", TOM AND JERRY 
+http://zeusplay.life:80/live/IVONE123/IVONE321/495.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", CIGOHNA 
+http://zeusplay.life:80/live/IVONE123/IVONE321/233858.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", WWE 
+http://zeusplay.life:80/live/IVONE123/IVONE321/338722.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", OGGEY
+http://zeusplay.life:80/live/IVONE123/IVONE321/59713.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", TNT SPORTS 1
+http://opplex.tv:8080/live/global/global/346373.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MAASRAMGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", KIDS CREATION 
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", 9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DISNEY 
+http://opplex.tv:8080/live/global/global/167551.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY AAT
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 1 HD
+http://opplex.tv:8080/live/global/global/109987.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 2 HD
+http://opplex.tv:8080/live/global/global/109988.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",sony max
+http://opplex.tv:8080/live/global/global/221259.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",  Discovery HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Backup
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", Explore tv
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",Eurosports
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE 
+http://opplex.tv:8080/live/global/global/383065.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE net
+http://opplex.tv:8080/live/global/global/383062.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",Zee bangla cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DBC NEWS
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", CHANNEL 24
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DESH TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ATN BANGLA
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", AL JAZEERA
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BTV WORLD
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ANANDA TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ananda_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BBC WORLD
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BOISHAKHI TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",CHANNEL I
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",EKUSHEY TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekushey_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",RTV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SA TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",GAAN BANGLA
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",NICK HD
+http://filex.tv:8080/live/6272537/276327/9.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 1
+http://opplex.tv:8080/live/global/global/247998.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 2
+http://opplex.tv:8080/live/global/global/247999.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 3
+http://opplex.tv:8080/live/global/global/248000.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 4
+http://opplex.tv:8080/live/global/global/248001.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 5
+http://opplex.tv:8080/live/global/global/248002.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX HORROR
+http://opplex.tv:8080/live/global/global/348042.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX DRAMA
+http://opplex.tv:8080/live/global/global/348041.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX GOLD
+http://starsat.us:8080/live/8582/8582/178365.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX GOLD
+http://starsat.us:8080/live/8582/8582/252199.ts
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", Tbs
+http://xtv.ooo:8080/live/927382370/837382809/346613.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",ARENA SPORTS 2
+http://xtv.ooo:8080/live/Galaxy.2/4321/347793.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",ARENA SPORTS 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/353725.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/352087.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 2
+http://xtv.ooo:8080/live/Galaxy.2/4321/352088.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 3
+http://xtv.ooo:8080/live/Galaxy.2/4321/352089.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 4
+http://xtv.ooo:8080/live/Galaxy.2/4321/352090.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS CRICKET
+http://xtv.ooo:8080/live/Galaxy.2/4321/238475.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/238481.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SKY CRICKET
+http://xtv.ooo:8080/live/Galaxy.2/4321/167594.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png", A SPORTS
+http://xtv.ooo:8080/live/Galaxy.2/4321/219689.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SUPER SPORTS VARIETY 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/347276.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports", Bein Sports 1 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports",Bein Sports 2 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports", Bein Sports 3 France 🇫🇷
+http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", FOX DEPORTES 🇦🇷
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
