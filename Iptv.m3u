@@ -26,11 +26,13 @@ http://opplex.tv:8080/live/global/global/352930.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport 18 1
 http://opplex.tv:8080/live/global/global/382205.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", somoy tv
-http://opplex.tv:8080/live/global/global/245925.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rc9V6fv/download-2.jpg" group-title="Cricket 🏏", Jamuna TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYRP552/images-1.jpg" group-title="Cricket 🏏",SOMOY TV
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
+
+"name": "Maasranga TV",
+    "link": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", pink panther
 http://opplex.tv:8080/live/global/global/301503.ts
