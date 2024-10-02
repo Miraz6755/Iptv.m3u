@@ -43,21 +43,14 @@ http://opplex.tv:8080/live/global/global/301503.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", wwe
 http://opplex.tv:8080/live/global/global/347336.ts
-EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png",ZEE BANGLA HD
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png",ZEE BANGLA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png",STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
-{
-    "name": "Sony Aat",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728015370:KeyName=prod_linear:Signature=neMYHVnjRGngC0nEwCkbprCu9S3kAB4iRknRUwphjPvpFsaygVhRvLi2fSRVTOtLQfi2ldQwXh3gRz5ffxmfDg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+
+ #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",SONY AATH
+ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
+    
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha
 http://217.20.112.199/starjalshahd/index.m3u8
 
