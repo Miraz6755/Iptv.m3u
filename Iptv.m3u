@@ -38,6 +38,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangla",Asian Tv
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/lRpkGHj.png",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", pink panther
 http://opplex.tv:8080/live/global/global/301503.ts
 
