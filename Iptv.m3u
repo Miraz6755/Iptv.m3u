@@ -303,7 +303,8 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/352088.ts
 http://xtv.ooo:8080/live/Galaxy.2/4321/352089.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 4
 http://xtv.ooo:8080/live/Galaxy.2/4321/352090.ts
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", TNT SPORTS 4
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/238475.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
