@@ -6,7 +6,7 @@ https://m1-117b.protect-cdn.net/live/m1-index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, NTv
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg” group-title=”Bangla”, NTv
 http://opplex.tv:8080/live/global/global/109984.ts
 
 #EXTINF:-1 tvg-logo=”https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png” group-title=”Bangla”, TOFFEE SPORTS VIP
@@ -239,32 +239,34 @@ http://opplex.tv:8080/live/global/global/383065.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE net
 http://opplex.tv:8080/live/global/global/383062.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",Zee bangla cinema
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="all channels",Zee bangla cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DBC NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="all channels", DBC NEWS
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", CHANNEL 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png" group-title="all channels", CHANNEL 24
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DESH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="all channels", DESH TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ATN BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="all channels", ATN BANGLA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", AL JAZEERA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BTV WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ANANDA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png" group-title="all channels",ANANDA TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ananda_tv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BBC WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="all channels",BOISHAKHI TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",CHANNEL I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="all channels",CHANNEL I
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",EKUSHEY TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekushey_tv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="all channels",RTV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SA TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",GAAN BANGLA
