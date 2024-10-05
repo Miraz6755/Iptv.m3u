@@ -1,3 +1,6 @@
+# This m3u presented by t.me/piratestv_updates
+# API from byte-capsule
+[
 {
     "name": "Toffee LIVE1 VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
@@ -9,6 +12,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+   ]
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="sports", IND VS BD 
