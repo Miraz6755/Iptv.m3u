@@ -1,22 +1,8 @@
-# This m3u presented by t.me/piratestv_updates
-# API from byte-capsule
-[
-{
-    "name": "Toffee LIVE1 VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png",
-    "origin": "mprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728152559:KeyName=prod_live_events:Signature=XvAXWlZoJy_1DO-EGrz2XjtOwkBVIclU5G2vRHK5kAyU3bmVl73cTicx_-mOkCqo9-BBptzpRVh1osweYImVCw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-   ]
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png" group-title="sports", IND VS BD 
-https://m1-117b.protect-cdn.net/live/m1-index.m3u8
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
@@ -81,7 +67,7 @@ http://opplex.tv:8080/live/global/global/245900.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=BDStreamHub
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD2
-https://tsports.iptvbd.xyz/master_720.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="sports", SONY SPORTS TEN 5 HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 
