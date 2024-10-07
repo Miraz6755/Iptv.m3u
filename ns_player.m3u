@@ -1,4 +1,222 @@
-   "userAgent": "",
+# This m3u presented by t.me/piratestv_updates
+# API from byte-capsule
+[
+  {
+    "name": "B4U Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "B4U Music VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "BAN vs IND VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728339821:KeyName=prod_live_events:Signature=IS-lBb8I6OJFzMVjAqbaubOVoTawaOLfqJPQ8g3g6vC13kVxvZ_VPa1gvuAfk9IPZBPk7Yx7bpTBTUhpB_GOBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "LIVE1 VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/301636/logo/240x240/mobile_logo_148933001727851627.png",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728339779:KeyName=prod_live_events:Signature=eAPounXHjmh2qUQZgbABBbvpENqog0if2w2F9B6OXWkAa5qulAB76D_7q7EyCDLP6r3e2bTwqrez-vU9_44LDg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "LIVE2 VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728339877:KeyName=prod_live_events:Signature=QuEW0UYWf7G7MN7_xOdLA10tpZXmCckPTR9Tj-QfLLKNUt-olEC2vWAXfwj3nOzC4wXIg4Oc5GmbyDS7YdTVBA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Aat",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY BBC EARTH HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY MAX",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY MAX 2",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY MAX HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY PIX HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SAB HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 1 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 2 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 3 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 5 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY WAH",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY YAY",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728462179:KeyName=prod_linear:Signature=4iGnJ6U5DLbcHisFx1Y5meoGBgQvtGpZTL5WNOwxAyctlFXS_UDKGGHnE5zcQXwP9vOA38XBLNoGfJEPGno7Bg",
     "drmScheme": "",
     "drmLicense": ""
