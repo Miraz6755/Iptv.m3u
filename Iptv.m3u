@@ -7,6 +7,9 @@ https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN" group-title="",BD VS IN T Sports
+http://starshare.live:8080/live/Leroy123/Leroy123/18452.m3u8
+
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg” group-title=”Bangla”, NTv
 http://opplex.tv:8080/live/global/global/109984.ts
 
@@ -36,6 +39,10 @@ https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a218265
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p0NYSDh/20240802-165804.png" group-title="Bangla",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/31jnfmo2pyymqby/pixahunt_9beb581fe5a734755f596f63c18670ac_UTgs0bZhC2.webp", Tsports
+https://nayeemparvez.online/ib/master.m3u8?id=Tsports|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
+https://nayeemparvez.online/ib/master.m3u8?id=GTV |Referer=https://xnxx.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangla",Asian Tv
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
@@ -68,6 +75,8 @@ http://opplex.tv:8080/live/global/global/245900.ts
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=BDStreamHub
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD2
 https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s"sports", T sports
+http://opplex.tv:8080/live/global/global/245901.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="sports", SONY SPORTS TEN 5 HD
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 
@@ -77,11 +86,22 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", colors bangla
 http://217.20.112.199/colorsbangla/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png",Star Jalsha 
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png",Jalsha movie 
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", zee tv hd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="sports", movie bangla
 http://alvetv.com/mbtv/8080/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png",Nick
+http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=7084&deviceMac=00:1A:79:99:1F:A8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png",Sonic
+http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", Toofan
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
