@@ -249,6 +249,8 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
+https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
@@ -347,7 +349,7 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/238481.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SKY CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/167594.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png", A SPORTS
-http://xtv.ooo:8080/live/Galaxy.2/4321/219689.ts
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SUPER SPORTS VARIETY 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/347276.ts
 
