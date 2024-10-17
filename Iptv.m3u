@@ -333,7 +333,7 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/347793.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",ARENA SPORTS 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/353725.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 1
-http://xtv.ooo:8080/live/Galaxy.2/4321/352087.ts
+http://cdn.troya.one:80/ch1988/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCpFZbpMMqq-6-4vFTZzyqSBH3QV-i0fbkSlM6VW0S_5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 2
 http://xtv.ooo:8080/live/Galaxy.2/4321/352088.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 3
