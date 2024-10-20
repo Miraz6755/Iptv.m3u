@@ -48,7 +48,9 @@ https://static.jagobd.com.bd/live-orgin/nantv.stream/playlist.m3u8|referer=www.0
 https://static.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://play-lh.googleusercontent.com/k8oTDUaursTptlXo8o8NLS89Q74xdtu_slU_9UJPufYpndJc0j8yh0Ab0TmDF9JbyX0=w240-h480-rw" group-title="LIVE TV", NRB TV  HD 
 https://static.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8|referer=www.01747660661.blogspot.com
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s"sports", T sports 
+https://fdev.short.gy/PakVenGxRanaPk.m3u8
+http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="LIVE TV", ATN NEWS  HD 
 https://static.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 tvg-id="" tvg-name="Nadimrajaofficial" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="LIVE TV", BANGLA 24 HD
