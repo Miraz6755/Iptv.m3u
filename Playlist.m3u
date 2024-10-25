@@ -22,6 +22,17 @@
     "drmLicense": ""
   },
   {
+    "name": "T Sports Live 02",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg",
+    "origin": "live-cdn.tsports.com",
+    "referrer": "",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1729892204:KeyName=tsports-ed25519-01:Signature=mxeiVdiJlRrvGo1hcpQPmvLcW6oC1XUoYffimMVBTXdrq12ynVHVQpld1wieTsJiBRa1Kw8dYXmdgOz0xZyYAQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "TOFFEE Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
