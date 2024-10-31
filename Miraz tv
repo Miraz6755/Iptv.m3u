@@ -67,7 +67,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="LIVE TV", Deshe Bideshi
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU2OjQ1IFBNJmhhc2hfdmFsdWU9YW9KbDVXQUVnNUFxalEzQUpRWHE5QT09JnZhbGlkbWludXRlcz00MA==
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://fyfl.short.gy/Nadim1.jpg" group-title="LIVE TV", Dw
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="LIVE TV", Dw
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU5OjA5IFBNJmhhc2hfdmFsdWU9UUpkN3cvbndnT2hmOU5WTWhPL2UzUT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="LIVE TV", Ekhattor
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjAyIFBNJmhhc2hfdmFsdWU9WVBqZTFjT0VPdkdudW9NMEtpT2ROQT09JnZhbGlkbWludXRlcz00MA==
@@ -77,6 +77,8 @@ http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 https://cdn.livestreambd.com/TSportstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s" group-title="LIVE TV", T Sports HD
 https://fyfl.short.gy/017666.blogspot.com/0007.m3u8
+#EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjM3IFBNJmhhc2hfdmFsdWU9SFF5a2NLOGhOa2tqdGsweDcvK3B4dz09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg" group-title="LIVE TV", Ekushey Tv
