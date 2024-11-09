@@ -221,3 +221,27 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 https://newhub247.store/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f26b315c93319e1b5570a6eaf72be322b964bb553d8ac22d9b6e6ca6c483ef02ebc8ccdce8e4ed7f792db2f8deb1c8871721fc1f677d823a8d04d2862ca04bbe83b685d29ab82b1ad68a2557266b80eab31c1fe9d366d6438dcb557ff9c5b00700ed3c99642171c6e70c691e96c1df2722a759cc7fd38a1025c0b35c22de4ea836daa10821d228774a1bff914b6a3680d781bb16d1ebf272e940f8982ece68be37b2ca06513055912e117d57fff9c2f9cf981c623c8f97c654ba2713279fd05d03b9b0afbb922322f39cd51e9b095c55fa693023c4fe6a0ea234090897250ae92e92abd773b54b909c7ce32cfd65664faaea93ffb79c6a4b9e7334031ede591855e0c3856b669ba5bd270f90bbeaa9895c44454a629b7163471b58020180129896eb7fc58c7fdb07e3f0b1745cd0f97f04873c637fd7cd5651cd4e22c022efeb6c3ab930f225179e45d56e5852cc8aa162e&token=
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",Willow TV
+http://195.90.209.41:7575/channel/580f316d/index.m3u8?q=1731142068821
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?%7CdrmScheme=clearkey&drmLicense=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2244.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/24088.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2246.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2247.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
