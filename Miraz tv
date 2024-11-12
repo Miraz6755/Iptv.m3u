@@ -227,13 +227,13 @@ https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?%7CdrmScheme=cle
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="LIVE TV", Toffee Sports HD
 https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2244.ts
+http://xtv.ooo:8080/live/927382370/837382809/167570.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24088.ts
+http://xtv.ooo:8080/live/927382370/837382809/167571.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2246.ts
+http://xtv.ooo:8080/live/927382370/837382809/167577.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2247.ts
@@ -250,5 +250,11 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="LIVE TV", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
+http://opplex.tv:8080/live/global/global/109987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
+http://xtv.ooo:8080/live/927382370/837382809/167594.ts
+
+
 
 
