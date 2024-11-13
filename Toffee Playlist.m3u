@@ -229,7 +229,7 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1731659942:KeyName=prod_linear:Signature=oWpoTpKwtWp8t6JrGIt92liVp_MVD4T8gPrqZTU15JE3KsbbpGo94v7ZdwzwkYYC0hMddtlNMeFKBKnxLtm9DA",
     "drmScheme": "",
     "drmLicense": ""
-  }
+  },
   {
     "name": "Animal Planet",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8",
