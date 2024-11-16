@@ -626,3 +626,4 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2f5117cb8211933814c3da646
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=15913c103a5238e5a80ac2f498ee090d&drm=true
+#EXTVLCOPT:http-user-agent=KAIOS
