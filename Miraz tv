@@ -214,7 +214,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/bc8e2117-5268-4e01-bbe9-e1b69a2f63bf.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 4
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="LIVE TV", TNT Sports 5
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
