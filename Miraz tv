@@ -276,7 +276,6 @@ http://opplex.tv:8080/live/global/global/109949.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="LIVE TV",ColorsHD
 http://opplex.tv:8080/live/global/global/109947.ts
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Zee News" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="1" group-title="DISH D2H by CRICFy",Zee News
 https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=d39fc4163088919edecdd1f7058a9917
