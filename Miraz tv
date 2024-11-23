@@ -74,9 +74,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.cricketbazaar.com/_next/image?url=https%3A%2F%2Fmedia.cricketbazaar.com%2Fmedia%2Fattachments1731123317132_LOGO-69.png&w=1900&q=50" group-title="LIVE TV",T Sports
 http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s" group-title="LIVE TV", T Sports HD
-https://cdn-bd.televisionbd.com/Tsports-Bd/index.fmp4.m3u8
+https://live-cdn.tsports.com/live-01/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732437458:KeyName=tsports-ed25519-01:Signature=cBNH2XzNYkzhMEOwjq16nU0BqvcXX_MyBzHdGeipqcTb0v7jGEXtuxjn3gMTjSQq-GkHN6ym4UaXuY431tGXBw
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s" group-title="LIVE TV", T Sports HD
-https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732437458:KeyName=tsports-ed25519-01:Signature=cBNH2XzNYkzhMEOwjq16nU0BqvcXX_MyBzHdGeipqcTb0v7jGEXtuxjn3gMTjSQq-GkHN6ym4UaXuY431tGXBw
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
