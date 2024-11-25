@@ -6,40 +6,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1732502043:KeyName=prod_live_events:Signature=CKKFfSUwlssyOjbr7LxDXnCDUDR5Zk3_HQk97L7itYY8tQQqlh9xakMeDsRhmS5QbxBUbamBxYaVPVIQ-tvvDA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Dramas VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1732588506:KeyName=prod_live_events:Signature=v2RSmdNvIuzc2RD08hmrpax1NmEolpBxLrSwlsIQwO7__WWEVLp8xX8HVL8S1FfVzJy2HFQw736zIiDNGagpBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -50,7 +17,7 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732523866:KeyName=tsports-ed25519-01:Signature=LKAiJJDskds4xhTnhSSzBkk1JiJqF0s3ya07kIRXjsQcmJidinacOIjcYVcLtroKdrstCYu7g7zbOjkWA7c4AA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732610485:KeyName=tsports-ed25519-01:Signature=1kb1d3iNHpMNcdtnBdGlb_KCsNMwbdHWL6xqqW0x1EL9KShl11xm4yqFRQcBjXmRZOPBwNFNua8UXLmk7lbaDA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -61,7 +28,40 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732523866:KeyName=tsports-ed25519-01:Signature=LKAiJJDskds4xhTnhSSzBkk1JiJqF0s3ya07kIRXjsQcmJidinacOIjcYVcLtroKdrstCYu7g7zbOjkWA7c4AA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1732610485:KeyName=tsports-ed25519-01:Signature=1kb1d3iNHpMNcdtnBdGlb_KCsNMwbdHWL6xqqW0x1EL9KShl11xm4yqFRQcBjXmRZOPBwNFNua8UXLmk7lbaDA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -72,7 +72,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -83,7 +83,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -94,7 +94,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -105,7 +105,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -116,7 +116,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -127,7 +127,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -138,7 +138,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -149,7 +149,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -160,7 +160,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -171,7 +171,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -182,7 +182,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -193,7 +193,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -204,7 +204,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -215,7 +215,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -226,7 +226,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -237,7 +237,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -248,7 +248,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -259,7 +259,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -270,7 +270,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -281,7 +281,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -292,7 +292,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -303,7 +303,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -314,7 +314,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -325,7 +325,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -336,7 +336,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -347,7 +347,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -358,7 +358,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -369,7 +369,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -380,7 +380,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -391,7 +391,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -402,7 +402,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -413,7 +413,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732624391:KeyName=prod_linear:Signature=uACC3T2y5VNMQ3mjRzbhCL9WLXxB_hblsuqF05sLia-xT8jyX5lj23kP60Imtyf_-trmteMEMl2ZuTzRuAG7Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732711359:KeyName=prod_linear:Signature=MCis3aKPWKwnrKKb_DRVpJtKhUrW3jjy_hn1PZxJ9i6PdOVzgsdSykGEmtB9tS2YJssj4T_xnEQT9bRQrKO0DA",
     "drmScheme": "",
     "drmLicense": ""
   }
