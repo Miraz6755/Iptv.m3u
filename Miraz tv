@@ -157,6 +157,7 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
+http://bapatv.live:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
@@ -255,9 +256,9 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="LIVE TV", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-http://opplex.tv:8080/live/global/global/109987.ts
+http://bapatv.live:8080/starsports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports2
-http://opplex.tv:8080/live/global/global/109976.ts
+http://bapatv.live:8080/starsports2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
 http://xtv.ooo:8080/live/927382370/837382809/167592.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
