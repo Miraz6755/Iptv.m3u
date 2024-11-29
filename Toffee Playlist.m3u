@@ -45,8 +45,8 @@
   },
   {
     "name": "T Sports Live 01",
-    "link": "https://live-cdn.tsports.com/live-01/playlist.m3u8",
-    "logo": "https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
@@ -67,8 +67,8 @@
   },
   {
     "name": "T Sports Live 03",
-    "link": "https://live-cdn.tsports.com/live-03/index.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
+    "link": "https://live-cdn.tsports.com/live-03/playlist.m3u8",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
