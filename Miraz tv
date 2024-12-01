@@ -182,6 +182,8 @@ https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=a90c43b280da
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
 https://cdn3.pishow.tv/live/283/master.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://yt3.googleusercontent.com/gbn8u7lruht-7m6NQCOYjwE2GBlFg88mkgztD_C5Vwwu_eBYDFYVcQ4Qck5yogGSYaLcrFJz=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", Nick HD
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/150482.ts
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Mirazofficial",SANGEET BANGLA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/mono.m3u8 SONY 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
