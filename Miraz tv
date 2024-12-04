@@ -280,7 +280,7 @@ http://opplex.tv:8080/live/global/global/109950.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-plus-hd.png" group-title="LIVE TV",StarplusHD
 http://opplex.tv:8080/live/global/global/109949.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="LIVE TV",ColorsHD
-http://opplex.tv:8080/live/global/global/109947.ts
+http://109.61.81.147:2080/cdn2/4876/video.m3u8?token=4444
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Zee News" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="1" group-title="DISH D2H by CRICFy",Zee News
@@ -559,6 +559,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2cb97d9e6f85c26a6fcd243e4
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=2b3970db7e7c4066cdfbda4fb5aa3575&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
+http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
 #EXTINF:-1 tvg-id="67" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="67" group-title="DISH D2H by CRICFy",Zee Cinemalu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
