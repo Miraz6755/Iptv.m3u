@@ -380,7 +380,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=c8e963975e5957d58ee7d6809
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=d238cf61e93af1620256fd31cd723d33&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=d238cf61e93af1620256fd31cd723d33
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="41" group-title="DISH D2H by CRICFy",Discovery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -558,7 +558,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2cb97d9e6f85c26a6fcd243e4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=2b3970db7e7c4066cdfbda4fb5aa3575&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2b3970db7e7c4066cdfbda4fb5aa3575
+http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 #EXTINF:-1 tvg-id="67" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="67" group-title="DISH D2H by CRICFy",Zee Cinemalu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -626,7 +626,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=6c605f5c35a58a89350c4b4de
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=2f5117cb8211933814c3da646e0e4dde&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2f5117cb8211933814c3da646e0e4dde
+http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
 #EXTINF:-1 tvg-id="77" tvg-name="Zoom" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" tvg-chno="77" group-title="DISH D2H by CRICFy",Zoom
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -634,3 +634,4 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2f5117cb8211933814c3da646
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=15913c103a5238e5a80ac2f498ee090d&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
+http://109.61.81.147:2080/cdn2/532/video.m3u8?token=4444
