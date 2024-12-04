@@ -9,6 +9,7 @@ ALL bangladeshi IPTV links are BDIX connected.
 150+ channels are BDIX connected.
 
 IPTV playlist url- https://raw.githubusercontent.com/Miraz6755/Iptv.m3u/refs/heads/main/Miraz%20tv
+Toffee Link: https://raw.githubusercontent.com/Miraz6755/Iptv.m3u/refs/heads/main/Toffee%20Playlist.m3u
 
 Please contribute this project and add more channel or you can also send me iptv links on my email. If you can't find your favorite channel you can contribute this project and add your channel or you can also send me iptv links on my email. You can use any IPTV players on your platform. If you don't know any IPTV players you can use IPTV players below.If you having problem please refresh IPTV playlist or send me a email.
 
