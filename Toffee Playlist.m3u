@@ -6,7 +6,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1733326834:KeyName=prod_live_events:Signature=k8WCG4fIEZ0lCzWpirLNYuEOmp6CsQ1wL4EPLZaIco3Z-QUnix8DbUak_jwhI6Lvc1IZ1DzP6aw669VGEEnNBQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1733422635:KeyName=prod_live_events:Signature=IAawsIj6BSl27LJ_JGxxypUhck934U0qS1l_OxkcX8xCAL8bnCSyEGz_2HwKaAm2cHqaIl4FBzTOGWQepHctBg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -17,7 +17,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733402076:KeyName=prod_linear:Signature=4zKOrtIecjhK5PaZOyUcl85fSII9XXZR3nzQ2nQcnRB_Mnh05WgBNwbjl6HsfRIrrhjqfgmTYRCxUGuMXfr6Ag",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733545350:KeyName=prod_linear:Signature=drZleac-pXAD0vfbMSky4bkMPq5Gp5T9Dn-OLOJ3iU2DHc90KDaMYsVZNu7rOmfWgepijcmcDEr5X6IxAfXqBA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -28,7 +28,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733402076:KeyName=prod_linear:Signature=4zKOrtIecjhK5PaZOyUcl85fSII9XXZR3nzQ2nQcnRB_Mnh05WgBNwbjl6HsfRIrrhjqfgmTYRCxUGuMXfr6Ag",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733545350:KeyName=prod_linear:Signature=drZleac-pXAD0vfbMSky4bkMPq5Gp5T9Dn-OLOJ3iU2DHc90KDaMYsVZNu7rOmfWgepijcmcDEr5X6IxAfXqBA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -39,7 +39,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733402076:KeyName=prod_linear:Signature=4zKOrtIecjhK5PaZOyUcl85fSII9XXZR3nzQ2nQcnRB_Mnh05WgBNwbjl6HsfRIrrhjqfgmTYRCxUGuMXfr6Ag",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1733545350:KeyName=prod_linear:Signature=drZleac-pXAD0vfbMSky4bkMPq5Gp5T9Dn-OLOJ3iU2DHc90KDaMYsVZNu7rOmfWgepijcmcDEr5X6IxAfXqBA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -50,7 +50,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "PiratesTV",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733348697:KeyName=tsports-ed25519-01:Signature=4vAj0o8P-R7gJ4AN1QGfMZi2GGQsgXoa-EGNUohbiGdfG79HiPdb9xD8xh_x4TVcraXKaEXnaeFDEIsweUC8Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733435089:KeyName=tsports-ed25519-01:Signature=JORSBq5fs2WlO5iGuFS7FoM6eUNAG7fdloQ91lfA9YnKbmdODEllMJTeFQoqJSFqZAfZWH-XRf58bp7hpsNcCg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -61,7 +61,7 @@
     "origin": "live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733348697:KeyName=tsports-ed25519-01:Signature=4vAj0o8P-R7gJ4AN1QGfMZi2GGQsgXoa-EGNUohbiGdfG79HiPdb9xD8xh_x4TVcraXKaEXnaeFDEIsweUC8Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733435089:KeyName=tsports-ed25519-01:Signature=JORSBq5fs2WlO5iGuFS7FoM6eUNAG7fdloQ91lfA9YnKbmdODEllMJTeFQoqJSFqZAfZWH-XRf58bp7hpsNcCg",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -72,7 +72,7 @@
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733348697:KeyName=tsports-ed25519-01:Signature=4vAj0o8P-R7gJ4AN1QGfMZi2GGQsgXoa-EGNUohbiGdfG79HiPdb9xD8xh_x4TVcraXKaEXnaeFDEIsweUC8Dg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1733435089:KeyName=tsports-ed25519-01:Signature=JORSBq5fs2WlO5iGuFS7FoM6eUNAG7fdloQ91lfA9YnKbmdODEllMJTeFQoqJSFqZAfZWH-XRf58bp7hpsNcCg",
     "drmScheme": "",
     "drmLicense": ""
   },
