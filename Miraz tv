@@ -240,9 +240,10 @@ http://xtv.ooo:8080/live/927382370/837382809/167571.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 4 HD
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2247.ts
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="LIVE TV", Sony Liv HD
 https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
@@ -260,7 +261,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="LIVE TV", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-http://bapatv.live:8080/starsports1/index.m3u8
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports2
 http://bapatv.live:8080/starsports2/index.m3u8
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
@@ -343,7 +344,7 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=245959|Referer=RANAPK
 
 ###Sports
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="Sports", T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=9m8Bvz_5U9FGnqgsyqAY5A&expires=1733256784&user=d477246e9e724f81a011b847457e71c4
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167590.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pWPzQCMneqFi4OejoXK5_Vlvct7Gz3Q0zZproejxbk0ArqdYaGobzgl7&s=10" group-title="Sports", beIN sports Xtra 
