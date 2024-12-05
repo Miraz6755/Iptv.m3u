@@ -264,7 +264,7 @@ http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167581.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports2
-http://bapatv.live:8080/starsports2/index.m3u8
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167576.m3u8
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
 http://xtv.ooo:8080/live/927382370/837382809/167592.ts
