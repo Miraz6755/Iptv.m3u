@@ -74,9 +74,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.cricketbazaar.com/_next/image?url=https%3A%2F%2Fmedia.cricketbazaar.com%2Fmedia%2Fattachments1731123317132_LOGO-69.png&w=1900&q=50" group-title="LIVE TV",T Sports
 http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s" group-title="LIVE TV", T Sports HD
-http://bapatv.live:8080/tsports2/index.m3u8
+http://46.250.234.136:8080/live/omor20/omor20/4154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s" group-title="LIVE TV", T Sports HD
-http://bapatv.live:8080/tsports1/index.m3u8
+http://46.250.234.136:8080/live/omor20/omor20/5455.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://fifabd.xyz/OPLLX/play.m3u8?id=245901
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
@@ -266,6 +266,8 @@ http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports2
 http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167576.m3u8
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
 http://xtv.ooo:8080/live/927382370/837382809/167592.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
