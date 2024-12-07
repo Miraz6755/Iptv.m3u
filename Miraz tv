@@ -75,7 +75,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/IOBTZ6fuGpONg8UPn5_vaA/ip/172.69.78.143/id/2lV5aITTikI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AQn3pFRF85AOyHLNYSMYAwYJ7LUE6JHjDIdAyCP0tVldkFZJBiOi2-0nuzj8tMTjH-Of8u7gXGRtpGl_/spc/qtApAfViolvnmpoONZ0holGq1h2Gp9rjQsed8wURlJUj6BRQMtIQAdwSVUQ_ORE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51353498%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbkuMAYhlrLNLCvJJk33ZNnLBlmeq1fS3vLlly98hHaYCIDs_GsH7tpnpBvOkqF9tlxBUpYoWD4MHiCQLSg6rVcLc/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.cricketbazaar.com/_next/image?url=https%3A%2F%2Fmedia.cricketbazaar.com%2Fmedia%2Fattachments1731123317132_LOGO-69.png&w=1900&q=50" group-title="LIVE TV",T Sports
-http://xtv.ooo:8080/live/927382370/837382809/245901.ts
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
 http://46.250.234.136:8080/live/omor20/omor20/4154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
@@ -173,7 +174,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
-http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8 
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1565.m3u8 
 http://tv.cloudcdn.me:80/live.ts?channelId=092&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8 
@@ -183,7 +184,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
-https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=a90c43b280dafdc2f0377dfac318e37d397d620f-9d82a922794a31a1b4e451a446abb3ed-1730563357-1730552557
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
