@@ -171,16 +171,16 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies 
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath 
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8 
+http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+http://46.250.234.136:8080/live/omor20/omor20/9161.m3u8
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://bapatv.live:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
-http://xtv.ooo:8080/Jawad1994/03112371534/245893
+http://46.250.234.136:8080/live/omor20/omor20/9431.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
@@ -188,7 +188,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/1565.m3u8 
+http://46.250.234.136:8080/live/omor20/omor20/9347.m3u8 
 http://tv.cloudcdn.me:80/live.ts?channelId=092&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8 
@@ -198,7 +198,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
+http://46.250.234.136:8080/live/omor20/omor20/3628.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
