@@ -199,6 +199,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:1
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 http://46.250.234.136:8080/live/omor20/omor20/3628.m3u8
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
