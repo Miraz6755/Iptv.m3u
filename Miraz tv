@@ -314,6 +314,75 @@ http://xtv.ooo:8080/live/927382370/837382809/167592.ts
 http://xtv.ooo:8080/live/927382370/837382809/167594.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="LIVE TV",Sony Pix HD
 http://opplex.tv:8080/live/global/global/109966.ts
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png", COLORS HD
+https://playyonogames.in/live.php?id=144&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png", RISHTEY 
+https://playyonogames.in/live.php?id=279&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png", COLORS CINEPLEX SD
+https://playyonogames.in/live.php?id=482&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png", NICK JUNIOR 
+https://playyonogames.in/live.php?id=544&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png", NICK HINDI 
+https://playyonogames.in/live.php?id=545&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png", NICKELODEON JR.
+https://playyonogames.in/live.php?id=548&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV BEATS HD
+https://playyonogames.in/live.php?id=753&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png", COLORS BANGLA HD 
+https://playyonogames.in/live.php?id=756&extension=.m3u8|Referer=https://playyonogames.in/
+ 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png", COMEDY CENTRAL HD
+https://playyonogames.in/live.php?id=1157&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", COLORS INFINITY HD
+https://playyonogames.in/live.php?id=1158&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png", NICK HD+
+https://playyonogames.in/live.php?id=1226&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
+https://playyonogames.in/live.php?id=1320&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
+https://playyonogames.in/live.php?id=1341&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
+https://playyonogames.in/live.php?id=1345&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
+https://playyonogames.in/live.php?id=1368&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", COLORS BANGLA SD
+https://playyonogames.in/live.php?id=1369&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png", MTV BEATS SD
+https://playyonogames.in/live.php?id=1400&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png", COLORS CINEPLEX HD
+https://playyonogames.in/live.php?id=1477&extension=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png", COLORS BANGLA CINEMA 
+https://playyonogames.in/live.php?id=1657&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
+https://playyonogames.in/live.php?id=1763&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
+https://playyonogames.in/live.php?id=1450&extension=.m3u8|Referer=https://playyonogames.in/
+
+
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png", SPORTS 18 1 HD
+https://playyonogames.in/live.php?id=1984&extension=.m3u8|Referer=https://playyonogames.in/
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png", SPORTS 18 1
+https://playyonogames.in/live.php?id=1985&extension=.m3u8|Referer=https://playyonogames.in/
+ 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png", SPORTS 18 2 
+https://playyonogames.in/live.php?id=2852&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_3.png", SPORTS 18 3
+https://playyonogames.in/live.php?id=2853&extension=.m3u8|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png", SPORTS 18 KHEL 
+https://playyonogames.in/live.php?id=1998&extension=.m3u8|Referer=https://playyonogames.in/
+ 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
 http://opplex.tv:8080/live/global/global/109955.ts
