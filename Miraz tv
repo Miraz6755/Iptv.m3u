@@ -181,9 +181,8 @@ http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8
 https://tp.yg048.workers.dev/ch/468.m3u8
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 http://103.240.4.59:8080/star-jalsha/index.m3u8
-https://nayeemparvez.online/plusbox/watch.m3u8?id=StarJalshaHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
-https://nayeemparvez.online/plusbox/watch.m3u8?id=ZeeBanglaHD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebangla|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
 https://tp.yg048.workers.dev/ch/522.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
@@ -204,7 +203,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema 
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
-http://180.188.227.250:8095/stream/t/254/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 https://tp.yg048.workers.dev/ch/537.m3u8
 http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
