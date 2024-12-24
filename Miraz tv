@@ -210,7 +210,9 @@ https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Uny70t-T2TsCyzzt-8mnRfkRy0VLdl6g&s" group-title="LIVE TV",Tara Bangla cinema
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
 https://cdn3.pishow.tv/live/283/master.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://yt3.googleusercontent.com/gbn8u7lruht-7m6NQCOYjwE2GBlFg88mkgztD_C5Vwwu_eBYDFYVcQ4Qck5yogGSYaLcrFJz=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", Nick HD
