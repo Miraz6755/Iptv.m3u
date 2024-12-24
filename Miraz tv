@@ -88,7 +88,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/I
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.cricketbazaar.com/_next/image?url=https%3A%2F%2Fmedia.cricketbazaar.com%2Fmedia%2Fattachments1731123317132_LOGO-69.png&w=1900&q=50" group-title="LIVE TV",T Sports
 https://cdn-tsports.iptvbd.xyz/master_720.m3u8
-http://plusbox.tv:8080/TSportsHD/index.fmp4.m3u8?token=b23f5770e17f2b60c81190c05116939ea8c26b9d-20ee7a8a76a12db34d50a6f6dbb7aece-1734425225-1734414425
+http://plusbox.tv:8080/TSportsHD/index.fmp4.m3u8?token=21d3ded5d939f486d9dc1a840d5097d08938ac6e-7e1925c1228706c91815d9f934dff572-1735039222-1735028422
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
 http://46.250.234.136:8080/live/omor20/omor20/4154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
@@ -99,7 +99,7 @@ https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
 https://app.ncare.live/live-orgin/gazibd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
-http://103.96.235.18:8080/sports1/index.m3u8
+https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", TsportsHD
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
@@ -185,6 +185,7 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebangla|Referer=https://mhdmaxtv.me/
+http://plusbox.tv:8080/ZeeBanglaHD/index.fmp4.m3u8?token=2660a09d2e5d41afb1e0f8e06d04bd9da46ca141-879962c1b84e3d080c47dc85b753e1cd-1735039145-1735028345
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_bangla&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
