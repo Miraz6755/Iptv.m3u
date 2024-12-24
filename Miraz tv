@@ -95,10 +95,12 @@ http://46.250.234.136:8080/live/omor20/omor20/4154.m3u8
 http://46.250.234.136:8080/live/omor20/omor20/5455.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
+https://app.ncare.live/live-orgin/gazibd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://bdixtv247.xyz/m3u8.php?id=t_sports&e=.m3u8
 http://103.96.235.18:8080/sports1/index.m3u8
-https://nayeemparvez.online/plusbox/watch.m3u8?id=TSportsHD
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", TsportsHD
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
@@ -180,7 +182,7 @@ http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
 https://tp.yg048.workers.dev/ch/468.m3u8
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
-http://103.240.4.59:8080/star-jalsha/index.m3u8
+http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebangla|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
@@ -205,7 +207,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:1
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
-https://tp.yg048.workers.dev/ch/537.m3u8
+http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
@@ -239,7 +241,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
-https://cdn2.pishow.tv/live/141/master.m3u8 
+https://deencooper.space/JIO/stream.php?ck=5f5f68646e65615f5f3d73743d313733343836323633327e6578703d313733343934393033327e61636c3d2f2a7e686d61633d63613364303162393633336238623166343336613462646161363062666262313436626131316230623031656461313630396264373061393439383035663264&cid=183&key=JITENDRAUNATTI&id=B4U_Music_MOB-audio_97234_und=97200-video=600000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 1
