@@ -180,7 +180,7 @@ https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath 
 http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
-https://stream.iptvbd.xyz/Star-Jalsha/index.fmp4.m3u8?token=8eb9487187202318c94f738271d370a1bbed536c-031e473776b46f269d9c43873614a2ad-1735036118-1735025318
+http://bostv.one:8080/live/kamal@555/kamal@555/131989.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
@@ -267,19 +267,20 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
-https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4364fd3620ab9268948bf4d527616ba07&e=.m3u8
-https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea43ae3db447a707bc6d47a56e3d3ad93dd316b66c2766712e1d40bcf9552dd7fd5&e=.m3u8
-https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea44bfbd8bf3ab80e587005c1106d1c0b0646f59fbbef0125dca4bedb89ace3232f&e=.m3u8
+http://bostv.one:8080/live/kamal@555/kamal@555/92700.m3u8
+http://bostv.one:8080/live/kamal@555/kamal@555/92701.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F208144%2Flogo%2F240x240%2Fmobile_logo_881150001732192574.png&w=256&q=75" group-title="LIVE TV", Toffee Sports HD
 https://cdn-toffee.iptvbd.xyz/live.php?id=match-2&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 http://109.61.81.147:2080/cdn2/4863/video.m3u8?token=4444
-
+http://bostv.one:8080/live/kamal@555/kamal@555/93306.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 http://xtv.ooo:8080/live/927382370/837382809/167571.ts
-
+http://bostv.one:8080/live/kamal@555/kamal@555/93307.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 http://xtv.ooo:8080/live/927382370/837382809/167572.ts
+http://bostv.one:8080/live/kamal@555/kamal@555/93308.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401",Sony Sports 4 HD
 http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
@@ -305,7 +306,7 @@ https://bdixtv247.xyz/chd/m3u8.php?c=sky3nz&e=.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="LIVE TV", Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4b981bda5f68b096e47ce5213b3e3bf4434b8b35b69ef91249b32132036c47cf8&e=.m3u8
+http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167575.m3u8
 https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea49fc1bdf95e789cb2464b26ea2e080da9&e=.m3u8
@@ -317,7 +318,7 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [HIN]
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
-https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea417b64f158df3b598ec506f9130abe7d20cd195729a0e25b8f9830a2236d11906&e=.m3u8
+http://bostv.one:8080/live/kamal@555/kamal@555/92703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
 https://mafiatv.live/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea45c16e7420649d322b6ca99cc54024d4a&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="LIVE TV",Sony Pix HD
