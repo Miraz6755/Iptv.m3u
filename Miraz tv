@@ -87,9 +87,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/IOBTZ6fuGpONg8UPn5_vaA/ip/172.69.78.143/id/2lV5aITTikI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AQn3pFRF85AOyHLNYSMYAwYJ7LUE6JHjDIdAyCP0tVldkFZJBiOi2-0nuzj8tMTjH-Of8u7gXGRtpGl_/spc/qtApAfViolvnmpoONZ0holGq1h2Gp9rjQsed8wURlJUj6BRQMtIQAdwSVUQ_ORE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51353498%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbkuMAYhlrLNLCvJJk33ZNnLBlmeq1fS3vLlly98hHaYCIDs_GsH7tpnpBvOkqF9tlxBUpYoWD4MHiCQLSg6rVcLc/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://shadinbanglanewstv.com/wp-content/uploads/2021/08/Logo-Resized.png" group-title="LIVE TV", Shadhin Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.cricketbazaar.com/_next/image?url=https%3A%2F%2Fmedia.cricketbazaar.com%2Fmedia%2Fattachments1731123317132_LOGO-69.png&w=1900&q=50" group-title="LIVE TV",T Sports
-https://cdn-tsports.iptvbd.xyz/master_720.m3u8
-http://plusbox.tv:8080/TSportsHD/index.fmp4.m3u8?token=21d3ded5d939f486d9dc1a840d5097d08938ac6e-7e1925c1228706c91815d9f934dff572-1735039222-1735028422
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/11/12/bpl2025.jpg" group-title="LIVE TV",T Sports HD
+http://bostv.one:8080/live/kamal@555/kamal@555/94406.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
 https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
