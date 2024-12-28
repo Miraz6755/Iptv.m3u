@@ -91,9 +91,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://cdn-tsports.iptvbd.xyz/master_720.m3u8
 http://plusbox.tv:8080/TSportsHD/index.fmp4.m3u8?token=21d3ded5d939f486d9dc1a840d5097d08938ac6e-7e1925c1228706c91815d9f934dff572-1735039222-1735028422
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
-http://46.250.234.136:8080/live/omor20/omor20/4154.m3u8
+https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
-http://46.250.234.136:8080/live/omor20/omor20/5455.m3u8
+https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
@@ -207,10 +207,13 @@ https://tp.yg048.workers.dev/ch/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SVWnv0R/images-3.jpg" group-title="",Calcutta News 
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema 
-http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
-http://xtv.ooo:8080/Jawad1994/03112371534/245906
-http://bostv.one:8080/live/kamal@555/kamal@555/131986.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cinema.m3u8
+http://bostv.one:8080/live/kamal@555/kamal@555/131986.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
+http://xtv.ooo:8080/Jawad1994/03112371534/245906
+http://mega4k.one:8080//live/hemant01/hemant01/131985.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
