@@ -106,6 +106,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", TsportsHD
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/408.m3u8
+http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjM3IFBNJmhhc2hfdmFsdWU9SFF5a2NLOGhOa2tqdGsweDcvK3B4dz09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg" group-title="LIVE TV", Ekushey Tv
@@ -233,7 +234,8 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/150482.ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/mono.m3u8
 https://tp.yg048.workers.dev/ch/215.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
-http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444 
+http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdgkfPR/Picsart-24-10-20-13-47-05-617.jpg" group-title="",Ten 2 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEGnGZmFWIGFTmLmtjIcsip2xO05sTdxiBumd2iYUcWtKBQbRjNOds6LT&s=10", B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
