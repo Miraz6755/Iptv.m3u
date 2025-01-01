@@ -334,8 +334,20 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
 http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/386.m3u8
+http://xtv.ooo:8080/live/danyear12/am809100/167592.m3u8
+https://crichd.iptvbd.xyz/m3u8.php/supercricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
 http://watchindia.net:8880/live/80817/80817/2090.m3u8
+https://crichd.iptvbd.xyz/m3u8.php/skyscric.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-1
+#http://xtv.ooo:8080/global/global/371469
+http://xtv.ooo:8080/live/danyear12/am809100/371469.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-2
+#http://xtv.ooo:8080/global/global/371470
+http://xtv.ooo:8080/live/danyear12/am809100/371470.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="LIVE TV",Sony Pix HD
 http://opplex.tv:8080/live/global/global/109966.ts
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png", COLORS HD
