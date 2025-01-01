@@ -314,7 +314,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
-https://bdixtv247.xyz/chd/m3u8.php?c=sky1nz&e=.m3u8
+https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 https://bdixtv247.xyz/chd/m3u8.php?c=sky2nz&e=.m3u8
 https://bdixtv247.xyz/chd/m3u8.php?c=sky3nz&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
@@ -495,7 +495,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="Kids",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", pogo
-https://fifabd.xyz/OPLLX/play.m3u8?id=150483|Referer=RANAPK
+https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=2766
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Nick
 https://fifabd.xyz/OPLLX/play.m3u8?id=150482|Referer=RANAPK
 
@@ -840,7 +840,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=131cab559ea14d4bc33e1b13a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=1ea06a08794e3ca35ad49e11f4a5d16b&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=1ea06a08794e3ca35ad49e11f4a5d16b
+https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=154
 #EXTINF:-1 tvg-id="62" tvg-name="Zee Bharat" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jvpitr.png" tvg-chno="62" group-title="DISH D2H by CRICFy",Zee Bharat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -881,7 +881,9 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2cb97d9e6f85c26a6fcd243e4
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=2b3970db7e7c4066cdfbda4fb5aa3575&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
 http://watchindia.net:8880/live/80817/80817/787.m3u8
-http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
+https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=152
+https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=150
+https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=151
 #EXTINF:-1 tvg-id="67" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="67" group-title="DISH D2H by CRICFy",Zee Cinemalu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
