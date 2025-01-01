@@ -236,7 +236,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/150482.ts
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Mirazofficial",SANGEET BANGLA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/mono.m3u8
-https://tp.yg048.workers.dev/ch/215.m3u8
+https://cdn1.pishow.tv/live/214/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
 http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
 http://103.102.27.173/live/tvfeed1001/index.m3u8
@@ -644,7 +644,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=9d45b8e286c62be2168a01e0
 #EXTINF:-1 tvg-id="19" tvg-name="9X Jalwa" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/othtvy.png" tvg-chno="19" group-title="DISH D2H by CRICFy",9X Jalwa
 http://watchindia.net:8880/live/80817/80817/828.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="9X Jhakaas" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" tvg-chno="20" group-title="DISH D2H by CRICFy",9X Jhakaas
-https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=609959dbb0e4dfe70ac39d00f59ac08d
+https://cdn1.pishow.tv/live/219/master.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Fakt Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" tvg-chno="21" group-title="DISH D2H by CRICFy",Fakt Marathi
 https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=b038fadb21ef79b3602a0126f715bd6e
 #EXTINF:-1 tvg-id="22" tvg-name="Sansad TV" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" tvg-chno="22" group-title="DISH D2H by CRICFy",Sansad TV
@@ -660,7 +660,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=3b47c05b663969da0f789759
 #EXTINF:-1 tvg-id="27" tvg-name="Rongeen TV" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/veawzl.png" tvg-chno="27" group-title="DISH D2H by CRICFy",Rongeen TV
 https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=1d0c0f454d25c955e785bd0d300d6c51
 #EXTINF:-1 tvg-id="28" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" tvg-chno="28" group-title="DISH D2H by CRICFy",Sangeet Bangla
-https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=419c867cad69504196d7566a66e8ec44
+https://cdn1.pishow.tv/live/214/master.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="Sangeet Bhojpuri" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" tvg-chno="29" group-title="DISH D2H by CRICFy",Sangeet Bhojpuri
 https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=8867d6ae977ce52cfcb19a519603ed1a
 #EXTINF:-1 tvg-id="30" tvg-name="Sanskar HD" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odkbmd.png" tvg-chno="30" group-title="DISH D2H by CRICFy",Sanskar HD
