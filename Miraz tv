@@ -301,7 +301,7 @@ http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
 http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="LIVE TV", Sony Liv HD
-https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=st=1735789406~exp=1735789706~acl=*~id=4c7a2238-7c86-45bd-94b5-9cdb3bf705b1~hmac=4d26b205f07bd4df09a2b6000b2896db4a00a5e8b2d39b768cb552a0c38bafd5&originpath=/linear/hls/pb/event/biQJgf06SJCitj-nd502ow/stream/1e5bd939-2a4e-4aa5-8454-2fb825a9cec6:TPE/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
