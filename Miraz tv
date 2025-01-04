@@ -471,13 +471,13 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
 http://opplex.tv:8080/live/global/global/109955.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s" group-title="LIVE TV",& Tv HD
-http://opplex.tv:8080/live/global/global/109952.ts
+https://baskardo.vip/IN_And/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrp8RAt22ZNapXiBW8BkH_lu_COswJ8Vd8w&s" group-title="LIVE TV",& ZEE TVHD
-http://opplex.tv:8080/live/global/global/109950.ts
+https://baskardo.vip/IS_ZE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-plus-hd.png" group-title="LIVE TV",StarplusHD
-http://opplex.tv:8080/live/global/global/109949.ts
+https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="LIVE TV",ColorsHD
-http://109.61.81.147:2080/cdn2/4876/video.m3u8?token=4444
+https://baskardo.vip/IN_CTVS/index.m3u8
 
 
 ###Kids
@@ -556,17 +556,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png" group-title="Sports", SuperSport Grandstand
 https://top1.iosplayer.ru/tshttp/top1/eplayerSupersportGrandstand/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 1 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109983|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 2 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109984|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 3 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109985|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Sports 5
-https://fifabd.xyz/OPLLX/play.m3u8?id=109992|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Star Sports 1 Hindi
-https://fifabd.xyz/OPLLX/play.m3u8?id=109986|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", GAZI TV
-https://fifabd.xyz/OPLLX/play.m3u8?id=245901|Referer=RANAPK
+
 
 ###Islamic
 #EXTINF:-1 tvg-id="IqraTV" tvg-name="Iqra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nBvnmpyhwL5KcakLDxtGLeH_IHOT0Hmbag&usqp=CAU" group-title="Islamic", Iqra TV
