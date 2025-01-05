@@ -321,7 +321,7 @@ http://38.96.178.201/live/PTVSports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
-http://147.93.20.220/proxify?url=https://dai.fancode.com/primary/113354_english_hls_5062ta-di/index.m3u8
+https://cdn-fancode.iptvbd.xyz/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F116346_english_hls_5242ta-no%2Findex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
 https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 https://bdixtv24.net/m3u8.php/sky2nz.m3u8
