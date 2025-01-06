@@ -282,7 +282,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
 https://cdn-toffee.iptvbd.xyz/live.php?id=sonyaath&e=.m3u8
-http://180.188.227.250:8095/stream/t/34/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=195&e=.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -381,9 +381,9 @@ https://playyonogames.in/live.php?id=279&extension=.m3u8|Referer=https://playyon
 https://playyonogames.in/live.php?id=482&extension=.m3u8|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png", NICK JUNIOR 
-https://playyonogames.in/live.php?id=544&extension=.m3u8|Referer=https://playyonogames.in/
+https://cflare.mooo.com/hls/nickjr.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png", NICK HINDI 
-https://playyonogames.in/live.php?id=545&extension=.m3u8|Referer=https://playyonogames.in/
+https://cflare.mooo.com/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png", NICKELODEON JR.
 https://playyonogames.in/live.php?id=548&extension=.m3u8|Referer=https://playyonogames.in/
 
@@ -398,11 +398,11 @@ https://playyonogames.in/live.php?id=1157&extension=.m3u8|Referer=https://playyo
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", COLORS INFINITY HD
 https://playyonogames.in/live.php?id=1158&extension=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png", NICK HD+
-https://playyonogames.in/live.php?id=1226&extension=.m3u8|Referer=https://playyonogames.in/
+https://cflare.mooo.com/hls/nickhd.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
 https://playyonogames.in/live.php?id=1320&extension=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
-https://playyonogames.in/live.php?id=1341&extension=.m3u8|Referer=https://playyonogames.in/
+https://cflare.mooo.com/hls/nickbn.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
 https://playyonogames.in/live.php?id=1345&extension=.m3u8|Referer=https://playyonogames.in/
@@ -452,10 +452,10 @@ https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralama
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX HD
 https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/ 
-
+https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=123&e=.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX
 https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/ 
-
+https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=96&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg" group-title="SONY LIV",SONY WAH
 https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/ 
 
@@ -985,3 +985,129 @@ http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=15913c103a5238e5a80ac2f498ee090d&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
 http://watchindia.net:8880/live/80817/80817/842.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sports18.png", Sports 18
+https://cflare.mooo.com/hls/sports18.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp1.png", Star Sports 1
+https://cflare.mooo.com/hls/starsp1.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp2.png", Star Sports 2
+https://cflare.mooo.com/hls/starsp2.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsportssetec.jpg", Star Sports Select 1
+https://cflare.mooo.com/hls/starspsl1.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsps2.png", Star Sports Select 2
+https://cflare.mooo.com/hls/starspsl2.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten1.png", Sony Sports 1
+https://cflare.mooo.com/hls/sonysp1.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten2.png", Sony Sports 2
+https://cflare.mooo.com/hls/sonysp2.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten3.png", Sony Sports 3
+https://cflare.mooo.com/hls/sonysp3.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/Sony%20TEN%2051667728306.png", Sony Sports 5
+https://cflare.mooo.com/hls/sonysp5.m3u8
+
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjhJ-xMHhzPeYDme7yYPdvHSjZ6EiaAfP1obrnBWjhESWQyGViV2xBIkp&s=10", Eurosports
+https://cflare.mooo.com/hls/eurosports.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha
+https://cflare.mooo.com/hls/starjalsha.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla
+https://cflare.mooo.com/hls/colorsbangla.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla
+https://cflare.mooo.com/hls/zeebangla.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colors.jpg", Colors
+https://cflare.mooo.com/hls/colors.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV
+https://cflare.mooo.com/hls/zeetv.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png", Sony Sab
+https://cflare.mooo.com/hls/sab.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema
+https://cflare.mooo.com/hls/zeecinema.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV9XWJCyWa4-fd46JwqZdJKWHHUPVMkEi2gtOKC2kbsOULNJC0P4lIao&s=10", And TV
+https://cflare.mooo.com/hls/andtv.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/andpicture.png", And Pictures
+https://cflare.mooo.com/hls/andpictures.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyent.png", Set HD
+https://cflare.mooo.com/hls/sethd.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starplus.png", Star Plus
+https://cflare.mooo.com/hls/starplus.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/stargold.png", Star Gold
+https://cflare.mooo.com/hls/stargold.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max
+https://cflare.mooo.com/hls/sonymax.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png", Sony Max 2
+https://cflare.mooo.com/hls/sonymax2.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlYMpr3oHun4Upw6fHxVOhzEJDEy9xSLJDv6zDatZ1GzRaySaGivXSRO1&s=10", Nick HD+
+https://cflare.mooo.com/hls/nickhd.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjS_FPfLIYGtA81h0IdTZVS2hS2ARYyaL4A&s", Nick Hindi
+https://cflare.mooo.com/hls/nick.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjS_FPfLIYGtA81h0IdTZVS2hS2ARYyaL4A&s", Nick Bangla
+https://cflare.mooo.com/hls/nickbn.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="http://toffe.top/images/nickjr.png", Nick jr
+https://cflare.mooo.com/hls/nickjr.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s", Hungama
+https://cflare.mooo.com/hls/hungama.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSft01ej3CSNHA-WXP-9n5_Pz7lwmiiRAiTNXSuW_VYyg&s", Disney Hindi
+https://cflare.mooo.com/hls/disney.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwUskDLGEJpHQU3aQd2_jNz6P4Zwn1CfhpsXf_4hX7OS1wzos4-BXi0M&s", Disney Junior
+https://cflare.mooo.com/hls/disneyjr.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp", Discovery Kids
+https://cflare.mooo.com/hls/dk.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/discovery.png", Discovery
+https://cflare.mooo.com/hls/discovery.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10", Discovery Science
+https://cflare.mooo.com/hls/science.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwo22A-pPDJiH4PPJ5ugo5qZ19vGjkDwjgA&s", Investigation Discovery
+https://cflare.mooo.com/hls/id.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY6Ftw9xBKib3UYLruwZ7RX0QGeRjeO8MD2cMt8Es8W-4ZnSMVzLL1LU&s", Discovery Turbo
+https://cflare.mooo.com/hls/dturbo.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/nationalgeo.png", National Geographic
+https://cflare.mooo.com/hls/natgeo.m3u8
+
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/natgeo.png", National Geographic Wild
+https://cflare.mooo.com/hls/natgeowild.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starmovies.png", Star Movies
+https://cflare.mooo.com/hls/smovie.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKWpYBUZxaqqDvOWOsLJUc-86PFEjau147-kk9diwpDTGQDH54D4CRA&s=10", Star Movies Select
+https://cflare.mooo.com/hls/smovies.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonypix.jpg", Sony Pix
+https://cflare.mooo.com/hls/spix.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png", Colors Infinity
+https://cflare.mooo.com/hls/colinf.m3u8
