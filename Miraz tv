@@ -239,7 +239,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://yt3.googleusercontent.com/gbn8u7lruht-7m6NQCOYjwE2GBlFg88mkgztD_C5Vwwu_eBYDFYVcQ4Qck5yogGSYaLcrFJz=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", Nick HD
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/150482.ts
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Mirazofficial",SANGEET BANGLA 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/mono.m3u8
+https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sangeetbangla.m3u8
 https://cdn1.pishow.tv/live/214/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
 http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
@@ -288,9 +288,9 @@ https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=195&e=.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-http://38.96.178.201/live/ASports/index.m3u8
+https://mac.mafiatv.live/linear-live.php?id=41481&amp;vtoken=&amp;e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
-https://sports.bdixtv24.net/m3u8.php/willowusa.m3u8
+https://mac.mafiatv.live/linear-live.php?id=372&amp;vtoken=&amp;e=.m3u8
 https://sports.bdixtv24.net/m3u8.php/willowextra.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F208144%2Flogo%2F240x240%2Fmobile_logo_881150001732192574.png&w=256&q=75" group-title="LIVE TV", Toffee Sports HD
@@ -324,7 +324,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://buddyxiptv.com/fancode/global/primary/113357_english_hls_5147ta-di/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
-https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
+https://mac.mafiatv.live/linear-live.php?id=955&amp;vtoken=&amp;e=.m3u8
+https://mac.mafiatv.live/linear-live.php?id=954&amp;vtoken=&amp;e=.m3u8
 https://bdixtv24.net/m3u8.php/sky2nz.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
@@ -353,6 +354,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/167592.m3u8
 https://crichd.iptvbd.xyz/m3u8.php/supercricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
 http://watchindia.net:8880/live/80817/80817/2090.m3u8
+https://mac.mafiatv.live/linear-live.php?id=876&amp;vtoken=&amp;e=.m3u8
 https://crichd.iptvbd.xyz/m3u8.php/skyscric.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",CricLife-1
 #http://xtv.ooo:8080/global/global/371469
