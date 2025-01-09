@@ -194,7 +194,7 @@ https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath 
 http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
-http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/449.m3u8
+https://baskardo.vip/IN_JALSHAS/index.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
@@ -222,8 +222,8 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cin
 http://bostv.one:8080/live/kamal@555/kamal@555/131986.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-http://xtv.ooo:8080/Jawad1994/03112371534/245906
-http://mega4k.one:8080//live/hemant01/hemant01/131985.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510486.ts
+https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
