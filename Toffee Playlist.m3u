@@ -28,7 +28,9 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1736583557:KeyName=prod_linear:Signature=03bW_ir29QPasyW7hkkQkQAyF20-2GodICgmPqpUQRziqAYpCS4NKeijCwcMXftQTSdGizNAVDIhx_gOnwTeCQicense": ""
+    "cookie": "Edge-Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1736583557:KeyName=prod_linear:Signature=03bW_ir29QPasyW7hkkQkQAyF20-2GodICgmPqpUQRziqAYpCS4NKeijCwcMXftQTSdGizNAVDIhx_gOnwTeCQicense",
+    "drmScheme": "",
+    "drmLicense": ""
   },
   {
     "name": "TOFFEE Movies VIP",
