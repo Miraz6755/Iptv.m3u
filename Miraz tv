@@ -94,10 +94,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_logo/1735207297-BPL-Live-Thum.jpg" group-title="LIVE TV",LIVE BPL2025
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSportshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
-https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
+https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-01/master_720.m3u8
 https://live.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
-https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
+https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
@@ -106,10 +106,10 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 https://live.tsports.com/live-02/index.m3u8
-
+http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-https://247stream.one/tv/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
+https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
 https://cdn.shihabtv.xyz/rabi/live.php?m3u8=https://streams.rabbitholebd.com/live/BPL11thmatch/BPL11thmatch/BPL11thmatch_3_playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
