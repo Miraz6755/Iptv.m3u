@@ -233,7 +233,7 @@ http://on.deflix.xyz:8880/live/hasan19/hasan1519/1563.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1,Dhoom Music tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="Dhoom music"
-http://watchindia.net:8880/live/80817/80817/2289.m3u8
+http://watchindia.net:8880/live/40972/04523/2289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Uny70t-T2TsCyzzt-8mnRfkRy0VLdl6g&s" group-title="LIVE TV",Tara Bangla cinema
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
@@ -265,15 +265,15 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVX9zNXZUiWWX9L41hftp8Zun69hdCu8wMYFvZXT5FwO0-Rzk1umAdBI&s=10",Saga Music 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/576b9cd1-dcd1-4855-b4cc-0954a10e23c7/4.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIw-wZX2MHWzpsC3lBRL6-vsLuYPXFC0GnYFAplt2Y44BBiURXKAqrAs&s=10",Balle Balle 
-http://watchindia.net:8880/live/80817/80817/1955.m3u8 
+http://watchindia.net:8880/live/40972/04523/1955.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10",9x TASHAN 
-http://watchindia.net:8880/live/80817/80817/1950.m3u8 
+http://watchindia.net:8880/live/40972/04523/1950.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
-http://watchindia.net:8880/live/80817/80817/2113.m3u8
+http://watchindia.net:8880/live/40972/04523/2113.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
-http://watchindia.net:8880/live/80817/80817/2293.m3u8
+http://watchindia.net:8880/live/40972/04523/2293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="LIVE TV", TNT Sports 3
@@ -722,7 +722,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=f073560f61c8466c16bc6035
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=0b12085e743f3dcce2261416b961531e&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/783.m3u8
+http://watchindia.net:8880/live/40972/04523/783.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="& TV (And TV)" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="39" group-title="DISH D2H by CRICFy",& TV (And TV)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -730,7 +730,7 @@ http://watchindia.net:8880/live/80817/80817/783.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=c8e963975e5957d58ee7d6809ee4678d&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/782.m3u8
+http://watchindia.net:8880/live/40972/04523/782.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="Zee 24 Ghanta" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ivdstd.png" tvg-chno="40" group-title="DISH D2H by CRICFy",Zee 24 Ghanta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -842,7 +842,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=93b9c69c5240566dd44e6e1e1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=017a544acb713ac3b4c46402c94a07fc&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/840.m3u8
+http://watchindia.net:8880/live/40972/04523/840.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="Wion" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jczspl.png" tvg-chno="57" group-title="DISH D2H by CRICFy",Wion
 https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=ae115afb8c40a15898078a3188a3c58b
 #EXTINF:-1 tvg-id="58" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odeyvg.png" tvg-chno="58" group-title="DISH D2H by CRICFy",Zee Anmol
@@ -852,7 +852,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.m3u8?id=ae115afb8c40a15898078a31
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=3521b91f5a0e776f527c8634d72d2926&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/813.m3u8
+http://watchindia.net:8880/live/40972/04523/813.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Zee Anmol Cinema" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ysgmdh.png" tvg-chno="59" group-title="DISH D2H by CRICFy",Zee Anmol Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -900,7 +900,7 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=c3d692b24c166b564baf99dfd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=880942c12bea180e5c6f055bc18d4da7&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/822.m3u8
+http://watchindia.net:8880/live/40972/04523/822.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="Zee Business" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yyggwd.png" tvg-chno="65" group-title="DISH D2H by CRICFy",Zee Business
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -995,5 +995,5 @@ http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=15913c103a5238e5a80ac2f498ee090d&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/80817/80817/842.m3u8
+http://watchindia.net:8880/live/40972/04523/842.m3u8
 
