@@ -1303,6 +1303,7 @@ https://otttv.co.in/d2h/livestream/sangeet-bangla/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/drmLicense
 https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbhojpuri2.mpd
 #EXTINF:-1 tvg-id="sansad-tv-sd" tvg-name="Sansad TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" tvg-chno="sansad-tv-sd" group-title="News",Sansad TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
