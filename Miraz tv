@@ -1002,3 +1002,511 @@ http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
 #EXTVLCOPT:http-user-agent=KAIOS
 http://watchindia.net:8880/live/40972/04523/842.m3u8
 
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/6538_cupa.jpg", LIVE-Sports
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/89691_gtv.png", G-TV
+http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54797_TSports 21668953490.png", T-Sports
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/40086_PTV.jpg", PTV
+http://103.151.60.204/ptv-tv5.hoichhoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/2520_dvctv.png", DBC
+http://103.151.60.204/DBC-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg", Enter10
+http://14.4.4.42:8080/1402/video.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/94027_64209d2e-8a4c-4056-bb24-836ce9f7922d.jpg", TNT Sports 2
+http://103.151.60.204/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png", ARY DIGITAL
+http://103.151.60.204/ary-Digital/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG", Zee Bangla
+http://103.151.60.204/Zee-Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png", Star Jalsha
+http://103.151.60.204/Star-Jolsha-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29302_somoy-tv.png", Somoy-News
+http://103.151.60.204/SoMoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/62748_jamunatv.png", Jamuna
+http://103.151.60.204/Jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/66094_tv-channel-icons-children-cartoon-network-png-icon.jpg", Carton Network
+http://103.151.60.204/bbc-carton/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/83397_kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg", zee bangla cinema
+http://14.4.4.10/1401/video.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/56524_STARPLUS.JPG", Star Plus
+http://103.151.60.204/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG", Colors Bangla HD
+http://103.151.60.204/Colors-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG", Star Gold
+http://103.151.60.204/star-gold/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/36447_ZEECINEM.JPG", Zee Cinema
+http://103.151.60.204/zee-cenama/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/70913_SONY_AAT.PNG", Sony Aath
+http://103.151.60.204/sony-att/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png", Colours
+http://103.151.60.204/Colors-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png", ZEE
+http://103.151.60.204/zee-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG", Nagorik
+http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG", Jalsha Movies
+http://103.151.60.204/Jolsha-Movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/81188_ATNTV.PNG", ATN-Bangla
+https://cdn.hoichoi24.com/ATNBangla/video.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
+https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
+#EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="Entertainment",& TV (And TV)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-tv/drmLicense
+https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
+#EXTINF:-1 tvg-id="24-ghanta" tvg-name="Zee 24 Ghanta" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ivdstd.png" tvg-chno="24-ghanta" group-title="News",Zee 24 Ghanta
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/24-ghanta/drmLicense
+https://otttv.co.in/d2h/livestream/24-ghanta/manifest.mpd
+#EXTINF:-1 tvg-id="9x-jalwa" tvg-name="9X Jalwa" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/othtvy.png" tvg-chno="9x-jalwa" group-title="Music",9X Jalwa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-jalwa/drmLicense
+https://otttv.co.in/d2h/livestream/9x-jalwa/manifest.mpd
+#EXTINF:-1 tvg-id="9x-jhakaas" tvg-name="9X Jhakaas" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" tvg-chno="9x-jhakaas" group-title="Music",9X Jhakaas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-jhakaas/drmLicense
+https://otttv.co.in/d2h/livestream/9x-jhakaas/manifest.mpd
+#EXTINF:-1 tvg-id="9x-tashan" tvg-name="9X Tashan" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" tvg-chno="9x-tashan" group-title="Music",9X Tashan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-tashan/drmLicense
+https://otttv.co.in/d2h/livestream/9x-tashan/manifest.mpd
+#EXTINF:-1 tvg-id="9xm" tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lwihpv.png" tvg-chno="9xm" group-title="Music",9XM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9xm/drmLicense
+https://otttv.co.in/d2h/livestream/9xm/manifest.mpd
+#EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
+https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
+#EXTINF:-1 tvg-id="dd-bharati" tvg-name="DD Bharti" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.ibb.co/rZ2MwDY/DD-Bharti.jpg" tvg-chno="dd-bharati" group-title="Entertainment",DD Bharti
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-bharati/drmLicense
+https://otttv.co.in/d2h/livestream/dd-bharati/manifest.mpd
+#EXTINF:-1 tvg-id="dd-national" tvg-name="DD National" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.ibb.co/Fw5cKGD/DD-National.png" tvg-chno="dd-national" group-title="Entertainment",DD National
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-national/drmLicense
+https://otttv.co.in/d2h/livestream/dd-national/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" tvg-chno="discovery-kids" group-title="Kids",Discovery Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" tvg-chno="discovery-science" group-title="Infotainment",Discovery Science
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-science/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fdkzmc.png" tvg-chno="discovery-turbo" group-title="Infotainment",Discovery Turbo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-turbo/drmLicense
+https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
+#EXTINF:-1 tvg-id="divya" tvg-name="Divya" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg" tvg-chno="divya" group-title="Spiritual",Divya
+https://otttv.co.in/d2h/livestream/divya/master.m3u8
+#EXTINF:-1 tvg-id="epic-tv" tvg-name="Epic TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ujdkdu.png" tvg-chno="epic-tv" group-title="Infotainment",Epic TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
+https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
+#EXTINF:-1 tvg-id="et-now" tvg-name="ET Now" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ckpggz.png" tvg-chno="et-now" group-title="News",ET Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/et-now/drmLicense
+https://otttv.co.in/d2h/livestream/et-now/manifest.mpd
+#EXTINF:-1 tvg-id="fakt-marathi" tvg-name="Fakt Marathi" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zwombd.png" tvg-chno="fakt-marathi" group-title="Movies",Fakt Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/fakt-marathi/drmLicense
+https://otttv.co.in/d2h/livestream/fakt-marathi/manifest.mpd
+#EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png" tvg-chno="france-24" group-title="News",France 24
+https://otttv.co.in/d2h/livestream/france-24/master.m3u8
+#EXTINF:-1 tvg-id="india-news-gujarat" tvg-name="India New Gujarat" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png" tvg-chno="india-news-gujarat" group-title="News",India New Gujarat
+https://otttv.co.in/d2h/livestream/india-news-gujarat/master.m3u8
+#EXTINF:-1 tvg-id="india-news-haryana" tvg-name="India News Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gbtjgb.png" tvg-chno="india-news-haryana" group-title="News",India News Haryana
+https://otttv.co.in/d2h/livestream/india-news-haryana/master.m3u8
+#EXTINF:-1 tvg-id="india-news-punjab" tvg-name="India News Punjab" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png" tvg-chno="india-news-punjab" group-title="News",India News Punjab
+https://otttv.co.in/d2h/livestream/india-news-punjab/master.m3u8
+#EXTINF:-1 tvg-id="india-news-uttar-pradesh--uttrakhand" tvg-name="India News Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ddwhzh.png" tvg-chno="india-news-uttar-pradesh--uttrakhand" group-title="News",India News Uttar Pradesh Uttrakhand
+https://otttv.co.in/d2h/livestream/india-news-uttar-pradesh--uttrakhand/master.m3u8
+#EXTINF:-1 tvg-id="india--news" tvg-name="India News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gwunjr.png" tvg-chno="india--news" group-title="News",India News
+https://otttv.co.in/d2h/livestream/india--news/master.m3u8
+#EXTINF:-1 tvg-id="india-tv" tvg-name="India TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bgfvws.png" tvg-chno="india-tv" group-title="News",India TV
+https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Investigation Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jqwcyr.png" tvg-chno="investigation-discovery" group-title="Entertainment",Investigation Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/investigation-discovery/drmLicense
+https://otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-name="Korean Drama Active" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/csetwc.png" tvg-chno="korean-drama-active" group-title="Entertainment",Korean Drama Active
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/korean-drama-active/drmLicense
+https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
+#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="Movies Now HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/wthfwe.jpeg" tvg-chno="movies-now-hd" group-title="Movies",Movies Now HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="Movies",MNX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mn-plus-hd" tvg-name="MN Plus HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/leazcc.jpeg" tvg-chno="mn-plus-hd" group-title="Movies",MN Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mtv-beats" tvg-name="MTV Beats" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lrcznw.png" tvg-chno="mtv-beats" group-title="Music",MTV Beats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mtv-beats/drmLicense
+https://otttv.co.in/d2h/livestream/mtv-beats/manifest.mpd
+#EXTINF:-1 tvg-id="music-india" tvg-name="Music India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" tvg-chno="music-india" group-title="Music",Music India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/music-india/drmLicense
+https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
+#EXTINF:-1 tvg-id="naaptol-telugu" tvg-name="Naaptol Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/naaptol-telugu.png" tvg-chno="naaptol-telugu" group-title="Lifestyle",Naaptol Telugu
+https://otttv.co.in/d2h/livestream/naaptol-telugu/master.m3u8
+#EXTINF:-1 tvg-id="ndtv-24x7" tvg-name="NDTV 24x7" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/suwzgx.png" tvg-chno="ndtv-24x7" group-title="News",NDTV 24x7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/ndtv-24x7/drmLicense
+https://otttv.co.in/d2h/livestream/ndtv-24x7/manifest.mpd
+#EXTINF:-1 tvg-id="news-nation" tvg-name="News Nation" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bdxgyh.png" tvg-chno="news-nation" group-title="News",News Nation
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news-nation/drmLicense
+https://otttv.co.in/d2h/livestream/news-nation/manifest.mpd
+#EXTINF:-1 tvg-id="news-x" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/slvoly.png" tvg-chno="news-x" group-title="News",News X
+https://otttv.co.in/d2h/livestream/news-x/master.m3u8
+#EXTINF:-1 tvg-id="news18-india" tvg-name="News18 India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/upylxe.png" tvg-chno="news18-india" group-title="News",News18 India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-india/drmLicense
+https://otttv.co.in/d2h/livestream/news18-india/manifest.mpd
+#EXTINF:-1 tvg-id="news18-rajasthan" tvg-name="News18 Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpgzus.png" tvg-chno="news18-rajasthan" group-title="News",News18 Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-rajasthan/drmLicense
+https://otttv.co.in/d2h/livestream/news18-rajasthan/manifest.mpd
+#EXTINF:-1 tvg-id="news18-uttar-pradesh-uttrakhand" tvg-name="News18 Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ozinad.png" tvg-chno="news18-uttar-pradesh-uttrakhand" group-title="News",News18 Uttar Pradesh Uttrakhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/drmLicense
+https://otttv.co.in/d2h/livestream/news18-uttar-pradesh-uttrakhand/manifest.mpd
+#EXTINF:-1 tvg-id="pitaara" tvg-name="Pitaara" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" tvg-chno="pitaara" group-title="Movies",Pitaara
+https://otttv.co.in/d2h/livestream/pitaara/master.m3u8
+#EXTINF:-1 tvg-id="r-bangla" tvg-name="Republic Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/r-bangla.png" tvg-chno="r-bangla" group-title="News",Republic Bangla
+https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
+#EXTINF:-1 tvg-id="republic-bharat" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lnbskb.png" tvg-chno="republic-bharat" group-title="News",Republic Bharat
+https://otttv.co.in/d2h/livestream/republic-bharat/master.m3u8
+#EXTINF:-1 tvg-id="republic-tv" tvg-name="Republic TV" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctxfzq.png" tvg-chno="republic-tv" group-title="News",Republic TV
+https://otttv.co.in/d2h/livestream/republic-tv/master.m3u8
+#EXTINF:-1 tvg-id="romedy-now" tvg-name="Romedy Now" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/nchght.jpeg" tvg-chno="romedy-now" group-title="Movies",Romedy Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/romedy-now/drmLicense
+https://otttv.co.in/d2h/livestream/romedy-now/manifest.mpd
+#EXTINF:-1 tvg-id="rongeen-tv" tvg-name="Rongeen TV" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/veawzl.png" tvg-chno="rongeen-tv" group-title="Kids",Rongeen TV
+https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8
+#EXTINF:-1 tvg-id="russia-today" tvg-name="Russia Today" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/russia-today.png" tvg-chno="russia-today" group-title="News",Russia Today
+https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
+#EXTINF:-1 tvg-id="sangeet-bangla" tvg-name="Sangeet Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/hjdift.png" tvg-chno="sangeet-bangla" group-title="Music",Sangeet Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sangeet-bangla/drmLicense
+https://otttv.co.in/d2h/livestream/sangeet-bangla/manifest.mpd
+#EXTINF:-1 tvg-id="sangeet-bhojpuri" tvg-name="Sangeet Bhojpuri" tvg-language="Bhojpuri" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bpgfhq.png" tvg-chno="sangeet-bhojpuri" group-title="Music",Sangeet Bhojpuri
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/drmLicense
+https://otttv.co.in/d2h/livestream/sangeet-bhojpuri/manifest.mpd
+#EXTINF:-1 tvg-id="sansad-tv-sd" tvg-name="Sansad TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/oshzts.png" tvg-chno="sansad-tv-sd" group-title="News",Sansad TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-sd/drmLicense
+https://otttv.co.in/d2h/livestream/sansad-tv-sd/manifest.mpd
+#EXTINF:-1 tvg-id="sansad-tv-hd" tvg-name="Sansad TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" tvg-chno="sansad-tv-hd" group-title="News",Sansad TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/sansad-tv-hd/drmLicense
+https://otttv.co.in/d2h/livestream/sansad-tv-hd/manifest.mpd
+#EXTINF:-1 tvg-id="sanskar-tv" tvg-name="Sanskar TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odkbmd.png" tvg-chno="sanskar-tv" group-title="Spiritual",Sanskar TV
+https://otttv.co.in/d2h/livestream/sanskar-tv/master.m3u8
+#EXTINF:-1 tvg-id="satsang-tv" tvg-name="Satsang HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xtbali.png" tvg-chno="satsang-tv" group-title="Spiritual",Satsang HD
+https://otttv.co.in/d2h/livestream/satsang-tv/master.m3u8
+#EXTINF:-1 tvg-id="shorts-tv-active" tvg-name="Shorts TV Active" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shorts-tv-active.png" tvg-chno="shorts-tv-active" group-title="Entertainment",Shorts TV Active
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/shorts-tv-active/drmLicense
+https://otttv.co.in/d2h/livestream/shorts-tv-active/manifest.mpd
+#EXTINF:-1 tvg-id="shubh-tv" tvg-name="Shubh TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shubh-tv.png" tvg-chno="shubh-tv" group-title="Spiritual",Shubh TV HD
+https://otttv.co.in/d2h/livestream/shubh-tv/master.m3u8
+#EXTINF:-1 tvg-id="sai-leela" tvg-name="Sai Leela" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qjucjr.jpeg" tvg-chno="sai-leela" group-title="Spiritual",Sai Leela
+https://otttv.co.in/d2h/livestream/sai-leela/master.m3u8
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" tvg-chno="sony-pal" group-title="Entertainment",Sony Pal
+https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zjydwt.png" tvg-chno="sony-marathi" group-title="Entertainment",Sony Marathi
+https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" tvg-chno="sony-max" group-title="Movies",Sony MAX
+https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" tvg-chno="sony-max-hd" group-title="Movies",Sony MAX HD
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" tvg-chno="sony-max-2" group-title="Movies",Sony Max 2
+https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" tvg-chno="sony-pix-hd" group-title="Movies",Sony PIX HD
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" tvg-chno="sony-bbc-earth-hd" group-title="Infotainment",Sony BBC Earth HD
+https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-entertainment-television-hd" tvg-name="Sony Entertainment Television HD (SET HD)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" tvg-chno="sony-entertainment-television-hd" group-title="Entertainment",Sony Entertainment Television HD (SET HD)
+https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bipvli.png" tvg-chno="sony-sab" group-title="Entertainment",Sony SAB HD
+https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vavnvm.png" tvg-chno="sony-ten-1-hd" group-title="Sports",Sony Sports Ten 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vcbjdy.png" tvg-chno="sony-ten-2-hd" group-title="Sports",Sony Sports Ten 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fnrzdk.png" tvg-chno="sony-ten-3-hd" group-title="Sports",Sony Sports Ten 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" tvg-chno="sony-ten-5-hd" group-title="Sports",Sony Sports Ten 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-sports-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rtyulo.png" tvg-chno="sony-sports-ten-1-hd" group-title="Sports",Sony Sports Ten 1 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-sports-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/cxwken.png" tvg-chno="sony-sports-ten-2-hd" group-title="Sports",Sony Sports Ten 2 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-sports-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/atjlma.png" tvg-chno="sony-sports-ten-3-hd" group-title="Sports",Sony Sports Ten 3 HD
+https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony Wah" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctetuk.png" tvg-chno="sony-wah" group-title="Movies",Sony Wah
+https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png" tvg-chno="sony-yay" group-title="Kids",Sony Yay
+https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
+#EXTINF:-1 tvg-id="the-q" tvg-name="The Q" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/the-q.png" tvg-chno="the-q" group-title="Entertainment",The Q
+https://otttv.co.in/d2h/livestream/the-q/master.m3u8
+#EXTINF:-1 tvg-id="times-now-navbharat" tvg-name="Times Now Navbharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/times-now-navbharat.png" tvg-chno="times-now-navbharat" group-title="News",Times Now Navbharat
+https://otttv.co.in/d2h/livestream/times-now-navbharat/master.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/pjpqmt.png" tvg-chno="tlc" group-title="Lifestyle",TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/tlc/drmLicense
+https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
+#EXTINF:-1 tvg-id="total-bhakti" tvg-name="Total Bhakti" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/paokwh.png" tvg-chno="total-bhakti" group-title="Spiritual",Total Bhakti
+https://otttv.co.in/d2h/livestream/total-bhakti/master.m3u8
+#EXTINF:-1 tvg-id="vasanth" tvg-name="Vasanth TV" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/irwqvz.png" tvg-chno="vasanth" group-title="Entertainment",Vasanth TV
+https://otttv.co.in/d2h/livestream/vasanth/master.m3u8
+#EXTINF:-1 tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" tvg-chno="zee-action" group-title="Movies",Zee Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-action/drmLicense
+https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
+#EXTINF:-1 tvg-id="zee-anmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odeyvg.png" tvg-chno="zee-anmol" group-title="Entertainment",Zee Anmol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-anmol/drmLicense
+https://otttv.co.in/d2h/livestream/zee-anmol/manifest.mpd
+#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png" tvg-chno="zee-bangla" group-title="Entertainment",Zee Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
+#EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla-cinema/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
+#EXTINF:-1 tvg-id="zee-hindustan" tvg-name="Zee Bharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jvpitr.png" tvg-chno="zee-hindustan" group-title="News",Zee Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-hindustan/drmLicense
+https://otttv.co.in/d2h/livestream/zee-hindustan/manifest.mpd
+#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-name="Zee Bihar Jharkhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/phhexz.png" tvg-chno="zee-bihar-jharkhand" group-title="News",Zee Bihar Jharkhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/manifest.mpd
+#EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="zee-bollywood" group-title="Movies",Zee Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bollywood/drmLicense
+https://otttv.co.in/d2h/livestream/zee-bollywood/manifest.mpd
+#EXTINF:-1 tvg-id="zee-business" tvg-name="Zee Business" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yyggwd.png" tvg-chno="zee-business" group-title="News",Zee Business
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-business/drmLicense
+https://otttv.co.in/d2h/livestream/zee-business/manifest.mpd
+#EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinema/drmLicense
+https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
+#EXTINF:-1 tvg-id="zee-cinemalu" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="zee-cinemalu" group-title="Movies",Zee Cinemalu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinemalu/drmLicense
+https://otttv.co.in/d2h/livestream/zee-cinemalu/manifest.mpd
+#EXTINF:-1 tvg-id="zee-kannada" tvg-name="Zee Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bhqvrx.png" tvg-chno="zee-kannada" group-title="Entertainment",Zee Kannada
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-kannada/drmLicense
+https://otttv.co.in/d2h/livestream/zee-kannada/manifest.mpd
+#EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="zee-news" group-title="News",Zee News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-news/drmLicense
+https://otttv.co.in/d2h/livestream/zee-news/manifest.mpd
+#EXTINF:-1 tvg-id="zee-sarthak" tvg-name="Zee Sarthak" tvg-language="Odia" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-chno="zee-sarthak" group-title="News",Zee Sarthak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-sarthak/drmLicense
+https://otttv.co.in/d2h/livestream/zee-sarthak/manifest.mpd
+#EXTINF:-1 tvg-id="zee-talkies" tvg-name="Zee Talkies" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yhleum.png" tvg-chno="zee-talkies" group-title="Entertainment",Zee Talkies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-talkies/drmLicense
+https://otttv.co.in/d2h/livestream/zee-talkies/manifest.mpd
+#EXTINF:-1 tvg-id="zee-telugu" tvg-name="Zee Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" tvg-chno="zee-telugu" group-title="Entertainment",Zee Telugu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-telugu/drmLicense
+https://otttv.co.in/d2h/livestream/zee-telugu/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
+https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
+#EXTINF:-1 tvg-id="zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zing.png" tvg-chno="zing" group-title="Music",Zing
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zing/drmLicense
+https://otttv.co.in/d2h/livestream/zing/manifest.mpd
+#EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" tvg-chno="zoom" group-title="Music",Zoom
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
+https://otttv.co.in/d2h/livestream/zoom/manifest.mpd
+
