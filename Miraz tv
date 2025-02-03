@@ -108,6 +108,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 https://cric.moviesflixter.com/live.php?id=2832a8a6319e&e=.m3u8
 http://103.96.235.18:8080/sports1/index.m3u8
+http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
