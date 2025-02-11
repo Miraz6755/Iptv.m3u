@@ -201,7 +201,7 @@ https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath 
 http://46.250.234.136:8080/live/omor20/omor20/2138.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
-https://cdn.hoichoi24.com/Star-Jolsha-HD/tracks-v1a1a2/mono.m3u8
+https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 http://atg100.xyz/live/UL33K17/SYC4T9D/76204.m3u8
 http://103.151.60.204/Star-Jolsha-HD/index.m3u8
@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
-http://starshare.live:8080/live/rolly9911/rolly9911/406.m3u8 
+https://cdn.hoichoi24.com/DiscoveryHD/video.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
@@ -508,7 +508,7 @@ https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
-http://opplex.tv:8080/live/global/global/109955.ts
+https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s" group-title="LIVE TV",& Tv HD
 https://baskardo.vip/IN_And/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrp8RAt22ZNapXiBW8BkH_lu_COswJ8Vd8w&s" group-title="LIVE TV",& ZEE TVHD
