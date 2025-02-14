@@ -115,6 +115,138 @@ https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
+https://app.ncare.live/live-orgin/cha1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",AB Tv
+https://app.ncare.live/live-orgin/abtvusa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cbLa4udoL5yhHOalgbFbhH3KpXaoEuVyLQ&usqp=CAU" group-title="BD.BANG.CH ( BDIX )",AMAR BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJCsfkU24QMSaiGFzwOtJBRmmHk7-itbSpEeevGi-lTg6Oj1M7fbRWI_CCIjKVj0QlA0&usqp=CAU" group-title="BD.BANG.CH ( BDIX )",AMAR DIGITAL
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",ASIAN TV HD
+https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="BD.BANG.CH ( BDIX )",ATN BANGLA HD
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg" group-title="BD.BANG.CH ( BDIX )",ATN BANGLA UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",ATN Islamic TV
+https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="BD.BANG.CH ( BDIX )",Azan TV Canada
+https://app.ncare.live/live-orgin/azantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg" group-title="BD.BANG.CH ( BDIX )",B24C
+https://app.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="BD.BANG.CH ( BDIX )",BANGLAVISION TV HD
+https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="BD.BANG.CH ( BDIX )",BOISAKHI TV HD
+https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png" group-title="BD.BANG.CH ( BDIX )",BiswaBangla 24 Tv
+https://app.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="BD.BANG.CH ( BDIX )",CHANNEL 24 HD
+https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arif626/LOGO/main/CHANNEL%20EUROPE.png" group-title="BD.BANG.CH ( BDIX )",CHANNEL EUROPE
+https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-i-logo-F9F1100F83-seeklogo.com.png" group-title="BD.BANG.CH ( BDIX )",CHANNEL I TV HD
+https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd.jpg" group-title="BD.BANG.CH ( BDIX )",CHANNEL S MUSIC
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BD.BANG.CH ( BDIX )",Channel 23
+https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",Channel S UK
+https://app.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/800px-DBC_News_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",DBC TV HD
+https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="BD.BANG.CH ( BDIX )",DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BD.BANG.CH ( BDIX )",DESH TV
+https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="BD.BANG.CH ( BDIX )",DESHI Tv
+https://app.ncare.live/live-orgin/deshitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg" group-title="BD.BANG.CH ( BDIX )",DesheBideshe TV | Canada
+https://app.ncare.live/live-orgin/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",EKATTOR TV
+https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="BD.BANG.CH ( BDIX )",EKHON Tv HD
+https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",EKUSHEY TV
+https://app.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png" group-title="BD.BANG.CH ( BDIX )",GLOBAL TV
+https://app.ncare.live/live-orgin/Global-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",I ON TV UK
+https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="BD.BANG.CH ( BDIX )",IN-Zodiak TV
+https://app.ncare.live/live-orgin/zodiaktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",INDEPENDENT TV HD
+https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="BD.BANG.CH ( BDIX )",JAMUNA TV HD
+https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="BD.BANG.CH ( BDIX )",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/jagoroni.jpg" group-title="BD.BANG.CH ( BDIX )",Jagoronitv
+https://app.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",Jonmobhumi TV
+https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="BD.BANG.CH ( BDIX )",MASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",MOHONA Tv HD
+https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pOagrG0WEV9RYM_jDCy_2Qir1aZ1nZLw6hw=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD.BANG.CH ( BDIX )",MOVIE BANGLA
+https://app.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="BD.BANG.CH ( BDIX )",Matri Bhumi TV
+https://app.ncare.live/live-orgin/matribhumitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="BD.BANG.CH ( BDIX )",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" group-title="BD.BANG.CH ( BDIX )",Millenium TV
+https://app.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg" group-title="BD.BANG.CH ( BDIX )",Millennium24
+https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BD.BANG.CH ( BDIX )",N TV
+https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="BD.BANG.CH ( BDIX )",NEWS 21 BANGLA
+https://app.ncare.live/live-orgin/news21bd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="BD.BANG.CH ( BDIX )",NEWS 24 HD
+https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BD.BANG.CH ( BDIX )",NEXUS TV HD
+https://app.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD.BANG.CH ( BDIX )",NRB Tv
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="BD.BANG.CH ( BDIX )",Nan Tv
+https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jT3aya0or9E/oar2.jpg?sqp=-oaymwEiCNAFENAFSFqQAgHyq4qpAxEIARUAAAAAJQAAyEI9AICiQw==&rs=AOn4CLD7R6BQEn7YmjiFFR4SL_q8FpDZjQ" group-title="BD.BANG.CH ( BDIX )",Nobanno Tv
+https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="BD.BANG.CH ( BDIX )",R TV HD
+https://app.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-title="BD.BANG.CH ( BDIX )",RAJDANI
+https://app.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed.webp" group-title="BD.BANG.CH ( BDIX )",Ruposhi Bangla TV
+https://app.ncare.live/live-orgin/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://testing.aibd.org.my/wp-content/uploads/2013/06/satv.png" group-title="BD.BANG.CH ( BDIX )",SA Tv HD
+https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="BD.BANG.CH ( BDIX )",TARA BANGLA CINAMA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg" group-title="BD.BANG.CH ( BDIX )",THE CHANNEL Tv
+https://app.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png" group-title="BD.BANG.CH ( BDIX )",TV ONE
+https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",Time Televison | USA
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",bangla21 tv
+https://app.ncare.live/live-orgin/bangla21tv000889956-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/ibtv.jpg" group-title="BD.BANG.CH ( BDIX )",iBTV USA
+https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Kids",KIDS CREATION BANGLA
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png",Den Bagla Tv
+https://app.ncare.live/live-orgin/deentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg",GB
+https://app.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
+https://app.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg",Iqra Bagla Tv
+https://app.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg",Madia Tv
+https://app.ncare.live/live-orgin/madanitvbangla.stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkma Tv
+https://app.ncare.live/live-orgin/makkah.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Ekhon
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjAwOjM3IFBNJmhhc2hfdmFsdWU9SFF5a2NLOGhOa2tqdGsweDcvK3B4dz09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/G9d0D22/images.jpg" group-title="LIVE TV", Ekushey Tv
