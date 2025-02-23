@@ -105,7 +105,7 @@ https://cdn.hoichoi24.com/gtv-sports-tv5.hoichoi24.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
-https://fredflix.fun/bdix1/live.php?ferdos=T-SPORTS&e=.m3u8
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
