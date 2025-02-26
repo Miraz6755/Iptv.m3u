@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports2.m3u
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
-https://cdn.hoichoi24.com/gtv-sports-tv5.hoichoi24.com/tracks-v1a1/mono.m3u8
+http://161.248.188.101/visionhd/index.m3u8
 ##https://linkchur.top/tv/jd/m3u8.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
