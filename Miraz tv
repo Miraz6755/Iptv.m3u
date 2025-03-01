@@ -435,8 +435,8 @@ https://cdn.hoichoi24.com/A-sports/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://sports.bdixtv24.net/m3u8.php/willowextra.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F208144%2Flogo%2F240x240%2Fmobile_logo_881150001732192574.png&w=256&q=75" group-title="LIVE TV", Toffee Sports HD
-https://cdn-toffee.iptvbd.xyz/live.php?id=match-2&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304030/logo/240x240/mobile_logo_058213001739268041.png" group-title="LIVE TV", Toffee Sports HD
+https://tv.bdixtv24.live/toffeelive/live.php?id=c58fd7a1e300&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 https://mac.mafiatv.live/linear-live.php?id=373&amp;vtoken=&amp;e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
@@ -461,6 +461,7 @@ http://103.240.4.59:8080/ptv-pk/index.fmp4.m3u8?token=74496529dad4e4843d698663f2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+https://c4s22.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
