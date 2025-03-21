@@ -107,10 +107,10 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
-https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
+https://tv.bdixtv24.co/jadoo/jadoo.php?id=t_sports&e=.m3u8
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+https://bdixtv24.com/ayna/watch.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
@@ -201,6 +201,7 @@ https://app.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/mnews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BD.BANG.CH ( BDIX )",N TV
 https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+https://bdixtv24.com/ayna/watch.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="BD.BANG.CH ( BDIX )",NEWS 21 BANGLA
 https://app.ncare.live/live-orgin/news21bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="BD.BANG.CH ( BDIX )",NEWS 24 HD
@@ -478,7 +479,7 @@ http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://sports.bdixtv24.net/m3u8.php/star1in.m3u8
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+https://bdixtv24.com/ayna/watch.php?id=f064e069-8861-43d5-ac79-828b029a50a1&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFDbRE9-bcTwGx0ICwOl5PwRZqMBNg9XIqA&usqp=CAU" group-title="LIVE TV",Star Select sports1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpf4V6zpk8mtAt57_CTOX0pOLmJaK49p0mg&s" group-title="LIVE TV",Star select sports2
