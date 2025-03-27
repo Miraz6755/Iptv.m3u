@@ -479,14 +479,18 @@ http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://sports.bdixtv24.net/m3u8.php/star1in.m3u8
+https://bdlivestreaming.xyz/Ktv/op/167575/playlist.m3u8
 https://bdixtv24.com/ayna/watch.php?id=f064e069-8861-43d5-ac79-828b029a50a1&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFDbRE9-bcTwGx0ICwOl5PwRZqMBNg9XIqA&usqp=CAU" group-title="LIVE TV",Star Select sports1
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090639.m3u8
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpf4V6zpk8mtAt57_CTOX0pOLmJaK49p0mg&s" group-title="LIVE TV",Star select sports2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090640.m3u8
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090638.m3u8
-http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [ENG]
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
