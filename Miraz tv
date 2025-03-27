@@ -92,7 +92,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/I
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://shadinbanglanewstv.com/wp-content/uploads/2021/08/Logo-Resized.png" group-title="LIVE TV", Shadhin Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="LIVE TV",LIVE | IPL 2025
-https://live-cdn.tsports.com/live-02/playlist.m3u8
+https://tv.bdixtv24.co/ayna/playlist.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
@@ -476,13 +476,12 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 https://criccoder.pages.dev/astro.m3u8
 http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090636.m3u8
+https://tv.bdixtv24.co/ayna/playlist.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
-https://sports.bdixtv24.net/m3u8.php/star1in.m3u8
 https://bdlivestreaming.xyz/Ktv/op/167575/playlist.m3u8
 https://bdixtv24.com/ayna/watch.php?id=f064e069-8861-43d5-ac79-828b029a50a1&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFDbRE9-bcTwGx0ICwOl5PwRZqMBNg9XIqA&usqp=CAU" group-title="LIVE TV",Star Select sports1
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090639.m3u8
+https://tv.bdixtv24.co/ayna/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTpf4V6zpk8mtAt57_CTOX0pOLmJaK49p0mg&s" group-title="LIVE TV",Star select sports2
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090640.m3u8
