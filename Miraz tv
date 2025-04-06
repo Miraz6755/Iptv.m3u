@@ -110,7 +110,7 @@ http://kst.moonplex.net:8080/CH2/index.m3u8
 https://tv.bdixtv24.co/jadoo/jadoo.php?id=t_sports&e=.m3u8
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://bdixtv24.com/ayna/watch.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8
+https://cdn.hoichoi24.com/TSportsHD/video.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
