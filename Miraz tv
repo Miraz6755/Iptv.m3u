@@ -442,8 +442,8 @@ https://cdn.hoichoi24.com/A-sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://sports.bdixtv24.net/m3u8.php/willowextra.m3u8
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zoagvtvsex/out/v1/f32f1435d7164490b42604f768e77abd/cenc.mpd?|drmScheme=clearkey&drmLicense=ea0b6450977961c075695c1553fb50f9:108ba42caf6eaf23ae4d517966661f09
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zoagvtvsex/out/v1/f32f1435d7164490b42604f768e77abd/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ea0b6450977961c075695c1553fb50f9:108ba42caf6eaf23ae4d517966661f09
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="LIVE TV", Toffee Sports HD
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
