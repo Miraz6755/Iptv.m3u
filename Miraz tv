@@ -114,7 +114,7 @@ https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.10
 https://tv.bdixtv24.com/jadoo/jadoo.php?id=t_sports&e=.m3u8
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://cdn.hoichoi24.com/TSportsHD/video.m3u8
+https://rex-streaming.vercel.app/api/x/167590.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
@@ -443,7 +443,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 https://cdn.hoichoi24.com/A-sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
-https://sports.bdixtv24.net/m3u8.php/willowextra.m3u8
+https://rex-streaming.vercel.app/api/x/167582.m3u8
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zoagvtvsex/out/v1/f32f1435d7164490b42604f768e77abd/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ea0b6450977961c075695c1553fb50f9:108ba42caf6eaf23ae4d517966661f09
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
@@ -465,15 +465,15 @@ https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?h
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+https://rex-streaming.vercel.app/api/x/167568.m3u8
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd?%7CdrmScheme=clearkey&drmLicense=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-http://103.240.4.59:8080/ptv-pk/index.fmp4.m3u8?token=74496529dad4e4843d698663f25e84183a559831-3aa3c485c4942c9ba31b4ae8b84fad69-1734069286-1734058486
+https://rex-streaming.vercel.app/api/x/167567.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-https://c4s22.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8
+https://rex-streaming.vercel.app/api/x/167569.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
