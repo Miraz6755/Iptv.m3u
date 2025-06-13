@@ -110,9 +110,8 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 http://38.96.178.201/live/TSports/index.m3u8
-https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_alibaba-02.m3u8?aliyunols=on
 https://tv.bdixtv24.com/jadoo/jadoo.php?id=t_sports&e=.m3u8
-https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748613140300~hmac=bc9907efd919fd77afc2dc7e3de8eacffce7e210b62641cdc63302e06b04935d
+https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
 https://rex-streaming.vercel.app/api/x/167590.m3u8
 
