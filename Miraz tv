@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports2.m3u
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
 http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
-http://161.248.188.101/visionhd/index.m3u8
+https://smart.bengaldigital.live/WWE/index.m3u8
 ##https://linkchur.top/tv/jd/m3u8.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
@@ -347,7 +347,7 @@ http://103.122.74.6:8888/hls/starJalsha.m3u8
 http://watchindia.net:8880/live/80817/80817/2283.m3u8
 http://lkn1.chowdhury-shaheb.com/zeebangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
-https://cdn.hoichoi24.com/Zee-Bangla/tracks-v1a1/mono.m3u8
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
@@ -358,7 +358,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=092&uid=1068&deviceMac=00:1A:79:ED:10:29
-https://cdn.hoichoi24.com/Colors-bangla/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8 
 https://tp.yg048.workers.dev/ch/3.m3u8
@@ -366,7 +366,7 @@ https://tp.yg048.workers.dev/ch/3.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cinema.m3u8
-http://bostv.one:8080/live/kamal@555/kamal@555/131986.m3u8
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510486.ts
