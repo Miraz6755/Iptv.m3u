@@ -79,7 +79,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="LIVE TV", Deshi TV HD
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://musicbangla.tv/wp-content/uploads/2024/02/Horizontal-Logo.png" group-title="LIVE TV", Music Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="LIVE TV", Dw
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="LIVE TV", Ekhattor
@@ -338,7 +338,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
-http://103.122.74.6:8888/hls/starJalsha.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 #http://watchindia.net:8880/live/80817/80817/2283.m3u8
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -372,7 +373,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/543.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Plus 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1,Dhoom Music tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="Dhoom music"
 http://watchindia.net:8880/live/40972/04523/2289.m3u8
