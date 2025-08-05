@@ -77,7 +77,7 @@ https://tvsen6.aynaott.com/deshtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="LIVE TV", Deshe Bideshi
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="LIVE TV", Deshi TV HD
-http://208.86.19.13:81/514.stream/index.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://musicbangla.tv/wp-content/uploads/2024/02/Horizontal-Logo.png" group-title="LIVE TV", Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="LIVE TV", Dw
@@ -446,15 +446,15 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="LIVE TV", Toffee Sports HD
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
-http://103.110.111.36:8081/live/ten1_720p/chunk.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://103.110.111.36:8081/live/spten2_720p/chunk.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401",Sony Sports 4 HD
-http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-http://103.110.111.36:8081/live/spten5_720p/chunk.m3u8
+http://103.110.111.36:8081/live/spten5_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="LIVE TV", Sony Liv HD
 https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=st=1736308055~exp=1736308355~acl=*~id=aa99b6d7-d8b6-40fb-b6ba-cc4b4b755381~hmac=9960fb1a8f3bbc8ed9d08b1e21f910da1a7d15f35afccc96a466c79e8dd7973d&amp;originpath=/linear/hls/pb/event/biQJgf06SJCitj-nd502ow/stream/767338ca-d2a6-489a-b297-ff26b78ec10d:SIN2/master.m3u8
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
