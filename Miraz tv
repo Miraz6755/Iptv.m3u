@@ -331,7 +331,7 @@ http://lkn1.chowdhury-shaheb.com/hajjtv/index.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies 
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2S13Rks/images-4.jpg" group-title="", Sony Aath 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="", Sony Aath 
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8 
 #EXTINF:-1 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -367,7 +367,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cin
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510486.ts
+https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
@@ -431,7 +431,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
-http://lkn1.chowdhury-shaheb.com/sonyatt/index.m3u8
 https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=195&e=.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
@@ -626,7 +625,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="SONY LIV",SONY MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8 
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Sony_Aath.png" group-title="SONY LIV",SONY AATH
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SONY LIV",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8 
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SONY LIV",SONY YAY
