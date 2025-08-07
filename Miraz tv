@@ -583,7 +583,58 @@ https://mhdtvstream.com/live.php?id=1763&extension=.m3u8|Referer=https://mhdtvst
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
 https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
 
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/XJDT6J2j/HINDI-HITS-HD.png",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tTT7c8cR/Mastiii.jpg",Mastii
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
+https://mix.drmlive.net/mix/xiaomi-66080.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://zeerakmedia.com/wp-content/uploads/2024/02/Joo-Music-Logo.png",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/rKPT2yY9/ShowBox.jpg",Show Box
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/Z4ydZ9T/E24.jpg",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",SANGEET BANGLA
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/541.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg",MUSIC BANGLA
+http://live.matribhumitv.com/music-bangla/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/ydFWJZxh/NickHD.jpg",NICK
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg",SONIC BANGLA
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="HINDU RELIGION" tvg-logo="https://i.ibb.co.com/hFNNJdWm/Satsang-TV.jpg",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="HINDU RELIGION" tvg-logo="https://i.ibb.co.com/hFNNJdWm/Satsang-TV.jpg",Shubh TV
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="HINDU RELIGION" tvg-logo="https://i.ibb.co.com/5gNfjQpJ/SANSKAR-WEB-TV.jpg",Sanskar Web TV
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="HINDU RELIGION" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/wxttyz6M/Hindi-Movies.jpg",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/gj6PYNbc/Dubbed-Movies.jpg",Dubbed Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/RZ146s6N/Bangla-Kirton.jpg",Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/FRz46hPL/Bantulthe-Great.jpg",Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/kD3PDK7Q/Gopal-Var.jpg",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/J4ZGxQHW/Motu-Patlu.jpg",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/L8ShbZjg/Shinchan.jpg",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/pTSHb371/Doraemon.jpg",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/8kq7LY5H/Hindi-Songs.jpg",Hindi Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png", SPORTS 18 1 HD
