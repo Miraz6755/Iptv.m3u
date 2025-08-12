@@ -383,8 +383,8 @@ http://watchindia.net:8880/live/40972/04523/2289.m3u8
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
 https://tvsen6.aynaott.com/Khushboo/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://yt3.googleusercontent.com/gbn8u7lruht-7m6NQCOYjwE2GBlFg88mkgztD_C5Vwwu_eBYDFYVcQ4Qck5yogGSYaLcrFJz=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", Nick HD
-http://lkn1.chowdhury-shaheb.com/nick/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="LIVE TV", Akash Aath
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Mirazofficial",SANGEET BANGLA 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sangeetbangla.m3u8
 https://cdn1.pishow.tv/live/214/master.m3u8
