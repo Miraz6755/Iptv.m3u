@@ -101,17 +101,21 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 ##https://linkchur.top/tv/jd/m3u8.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://hls.ababiltv.com/TSports_HD/index.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
 http://103.15.140.138/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
 #https://rex-streaming.vercel.app/api/x/167590.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
+https://futbollive.online/T-Sports/index.mpd?token=ba06465455dc525cd6c9fc562d5cd401bd303ac2-7d3791e54ce9139afae10c58d4903e29-1755432644-1755429044
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
