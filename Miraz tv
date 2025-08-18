@@ -455,7 +455,7 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
-https://tvsen6.aynaott.com/asports-bkp/index.m3u8
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -483,7 +483,11 @@ https://rex-streaming.vercel.app/api/x/167568.m3u8
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd?%7CdrmScheme=clearkey&drmLicense=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 https://rex-streaming.vercel.app/api/x/167567.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
+https://tvsen5.aynaott.com/Ptvsports/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -493,7 +497,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
-https://bdixtv24.net/m3u8.php/sky2nz.m3u8
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
