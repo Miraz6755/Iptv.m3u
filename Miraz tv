@@ -458,10 +458,16 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zoagvtvsex/out/v1/f32f1435d7164490b42604f768e77abd/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ea0b6450977961c075695c1553fb50f9:108ba42caf6eaf23ae4d517966661f09
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
+https://xfireflix.fun/opflix/stream.php?id=167583&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="LIVE TV", Toffee Sports HD
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
@@ -497,7 +503,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090650.m3u8
+https://xfireflix.fun/opflix/stream.php?id=167594&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://app.hughag.store/api/6b9c461155/playlist.m3u8
@@ -526,8 +532,7 @@ https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 ##EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [HIN]
 #https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUaivXhE9SYXhQ0Hr6OHHTFjC8ZJepZW0xg&s" group-title="LIVE TV",SuperSportsCricket
-http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/386.m3u8
-https://cdn.hoichoi24.com/sports-superpremierleagueahd-english/tracks-v1a1/mono.m3u8
+https://xfireflix.fun/opflix/stream.php?id=167592&e=.m3u8
 167592.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supercricket
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6o4gWgrFa2rhjQseiEQAlnw7zNkGUmfc1zA&usqp=CAU" group-title="LIVE TV",Sky Sports
