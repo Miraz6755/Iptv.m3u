@@ -505,10 +505,11 @@ https://app.hughag.store/api/6b9c461155/playlist.m3u8
 https://criccoder.pages.dev/astro.m3u8
 http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-https://tv.bdixtv24.co/ayna/playlist.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
+https://xfireflix.fun/opflix/stream.php?id=167575&e=.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
-https://starsportshindiii.pages.dev/index.m3u8
-https://bdixtv24.com/ayna/watch.php?id=f064e069-8861-43d5-ac79-828b029a50a1&format=.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
+https://xfireflix.fun/opflix/stream.php?id=167581&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFDbRE9-bcTwGx0ICwOl5PwRZqMBNg9XIqA&usqp=CAU" group-title="LIVE TV",Star Select sports1
 https://tv.bdixtv24.co/ayna/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
