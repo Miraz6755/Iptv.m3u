@@ -368,7 +368,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/index.m3u8
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8 
@@ -380,11 +380,12 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cin
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
+http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 http://103.122.252.100:8080/JALSHA-MOVIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Plus 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
