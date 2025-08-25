@@ -394,7 +394,7 @@ http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
-
+https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies
@@ -441,7 +441,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIw-wZX2MHWzpsC3lBRL6-vsLuYPXFC0GnYFAplt2Y44BBiURXKAqrAs&s=10",Balle Balle 
 http://watchindia.net:8880/live/40972/04523/1955.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5PoYLuRBTRrIqg_Te-Lc-EjsCN3bZzBZpUrQyzVITKuzmNBfAwfPXTg&s=10",9x TASHAN 
-http://watchindia.net:8880/live/40972/04523/1950.m3u8 
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
@@ -620,7 +620,8 @@ https://mhdtvstream.com/live.php?id=1226&extension=.m3u8|Referer=https://mhdtvst
 https://mhdtvstream.com/live.php?id=1320&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
-
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
+http://tv.bdiptv.store/live/restreauuX58/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
 https://mhdtvstream.com/live.php?id=1345&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
