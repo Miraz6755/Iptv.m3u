@@ -118,7 +118,7 @@ http://103.15.140.138/tsports/index.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-#https://rex-streaming.vercel.app/api/x/167590.m3u8
+https://tvsky.noobmaster.xyz//012_T_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
@@ -424,6 +424,8 @@ https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
 http://103.122.252.100:8080/SONY-TEN-1/tracks-v1a1/index.m3u8
 http://103.102.27.173/live/tvfeed1001/index.m3u8
+https://tvsky.noobmaster.xyz//014_Sony_Sports_1_HD/tracks-v1a1/mono.m3u8
+https://tvsky.noobmaster.xyz//015_Sony_Sports_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pdgkfPR/Picsart-24-10-20-13-47-05-617.jpg" group-title="",Ten 2 
 http://103.122.252.100:8080/SONY-TEN-2/tracks-v1a1/index.m3u8
 http://103.122.252.100:8080/SONY-TEN-3/tracks-v1a1/index.m3u8
