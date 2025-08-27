@@ -486,7 +486,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
 http://103.122.252.100:8080/SONY-AATH/tracks-v1a1/index.m3u8
 https://tvsky.noobmaster.xyz//058_Sony_Aath/tracks-v1a1/mono.m3u8
-
+https://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
