@@ -118,7 +118,7 @@ http://103.15.140.138/tsports/index.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://serverss.noobmaster.xyz//012_T_Sports/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/tsports/index.m3u8?e=1756892800&u=1afb0301-3144-485e-bbfe-cc519cb6c465&token=5e30e29c27674653952c137e3a177002
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.rabbitholebd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frabbithole_white_logo.691fd2da.png&w=640&q=75" group-title="LIVE TV", Rabbitholebd
