@@ -12,7 +12,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XHBiDZ6csLBytqkYPoJmfUVVZPlxk4QvjIGBBpbk12SiMLJK1tkn6j0z&s=10" group-title="LIVE TV", Atn Bangla Uk
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" group-title="LIVE TV", Atn Music
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/mono.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" group-title="LIVE TV", Atn Islamic
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJeP3EUwJLq8sjuc_7Nn52Gk_OJxxAMA2uc1yJxR57LHCtcfs-ku51gzj&s=10" group-title="LIVE TV", Atn News
@@ -636,9 +636,9 @@ https://mhdtvstream.com/live.php?id=1320&extension=.m3u8|Referer=https://mhdtvst
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
-http://tv.bdiptv.store/live/restreauuX58/refstream/96.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
-https://mhdtvstream.com/live.php?id=1345&extension=.m3u8|Referer=https://mhdtvstream.com/
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/242.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
 https://mhdtvstream.com/live.php?id=1368&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", COLORS BANGLA SD
@@ -647,11 +647,12 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 https://mhdtvstream.com/live.php?id=1400&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png", COLORS CINEPLEX HD
 https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/237.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png", COLORS BANGLA CINEMA 
 https://live.dinesh29.com.np/stream/livetv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", COLORS CINEPLEX BOLLYWOOD 
-https://mhdtvstream.com/live.php?id=1763&extension=.m3u8|Referer=https://mhdtvstream.com/
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/239.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", COLORS CINEPLEX SUPERHITS 
 https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
