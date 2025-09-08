@@ -120,7 +120,8 @@ https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
 https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
+#http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
+https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1757325885~acl=%2f*~data=hdntl~hmac=ff515121a3cfd782f1fcf2fb4b939cc06e855c5303acfa3bd307a9eca8e13e5a/level_1.m3u8
