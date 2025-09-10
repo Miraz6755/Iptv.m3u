@@ -523,6 +523,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
 http://103.110.111.36:8081/live/spten5_720p/chunks.m3u8
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="LIVE TV", Sony Liv HD
 https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
