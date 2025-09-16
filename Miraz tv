@@ -548,7 +548,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
-https://xfireflix.fun/opflix/stream.php?id=167594&e=.m3u8
+https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=mG9J2IB27JtCJj9lXqdBxg&expires=1758022146|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://app.hughag.store/api/6b9c461155/playlist.m3u8
