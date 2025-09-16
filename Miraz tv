@@ -124,9 +124,8 @@ https://tvsen7.aynaott.com/tsportshd/index.m3u8
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1758031789~acl=/*~data=hdntl~hmac=636faea7199e179e47b0f5119a16093e0017e758282033ea2a65d3d975367fd6/level_1.m3u8
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1758025002~acl=%2f*~data=hdntl~hmac=3cd345b14d442407dc46ef0c9965b40422b79910fe50f68e1fadfb0e2425d60f/level_1.m3u8
-https://candy-live.linkchur.top/api/ef22d71b0e/chunks/c80806f436c1995953fd456a97305fa2c0282e45af1e9abbec5e4ba446233ae231aa74a900baf193eae557d2ab65fba593137767130719fa2ac9e720d4d32a17779bad021c2e21548fb3ec8f20d9cbb947e4cca3abbdb805a304d13822e2ede1b8eeb16a2ad8d180f9440ea3eac0fe8f.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1758117676~acl=/*~data=hdntl~hmac=0b5e64286ea0dc60ca10a820d5dde91ea518888810305c48a6af178db02a157/level_1.m3u8
+https://alibabacdn2.tamashaweb.com/alibaba02/alibabacdn2.tamashawe.com_alibaba02stream_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
 https://app.ncare.live/live-orgin/cha1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",AB Tv
