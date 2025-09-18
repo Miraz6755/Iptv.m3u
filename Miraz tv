@@ -490,7 +490,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
 http://103.122.252.100:8080/SONY-AATH/tracks-v1a1/index.m3u8
-https://tvsky.noobmaster.xyz//058_Sony_Aath/tracks-v1a1/mono.m3u8
+https://xfireflix.fun/Sl/index.m3u8/?id=2nQSvgSQSDFFVzBcLcRNxg%253D%253D&token=XFjrxXAkTp%252FdzGJV3tUjBQ%253D%253D
 https://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
@@ -743,10 +743,8 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8 
-https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=123&e=.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8 
-https://www.its-ferdos-alom.top/playlist1/sliv2/live.php?ferdos=96&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg" group-title="SONY LIV",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8 
 
@@ -755,7 +753,7 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SONY LIV",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8 
-
+https://xfireflix.fun/Sl/index.m3u8/?id=2nQSvgSQSDFFVzBcLcRNxg%253D%253D&token=XFjrxXAkTp%252FdzGJV3tUjBQ%253D%253D
 #EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SONY LIV",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8 
 
