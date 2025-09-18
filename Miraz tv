@@ -118,13 +118,13 @@ http://103.15.140.138/tsports/index.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://tvsen7.aynaott.com/tsportshd/index.m3u8
+https://flc2.technohaat.com/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 #http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1758117676~acl=/*~data=hdntl~hmac=0b5e64286ea0dc60ca10a820d5dde91ea518888810305c48a6af1718db02a157/level_1.m3u8
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapasia/level_1.m3u8
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
 https://app.ncare.live/live-orgin/cha1.stream/playlist.m3u8
