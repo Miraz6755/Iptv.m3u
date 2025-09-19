@@ -124,7 +124,7 @@ https://flc2.technohaat.com/tsports/tracks-v1a1/mono.m3u8
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapasia/level_1.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1758376990~acl=%2f*~data=hdntl~hmac=67a201a5a283f6cfbcf659a669bc7a5af44b78d31c43d81848e59f98ef7b2087/level_1.m3u8
 https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
 https://app.ncare.live/live-orgin/cha1.stream/playlist.m3u8
@@ -518,7 +518,7 @@ https://raw.githubusercontent.com/Miraz6755/sonyliv2/refs/heads/main/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401",Sony Sports 4 HD
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
@@ -545,6 +545,7 @@ https://rex-streaming.vercel.app/api/x/167569.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
+https://globalplay.live/fancode/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F136742_english_hls_cd7ccd163687982ta-di_h264%2F480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
 https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=mG9J2IB27JtCJj9lXqdBxg&expires=1758022146|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
