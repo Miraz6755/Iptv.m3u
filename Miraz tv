@@ -733,50 +733,100 @@ https://mhdtvstream.com/live.php?id=1998&extension=.m3u8|Referer=https://mhdtvst
  
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png" group-title="SONY LIV",SONY HD  
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8 
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/B6yNrgJ5/Sony-SAB-Logo-2011.png" group-title="SONY LIV",SONY SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8 
+#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
+https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Sony_Pal.jpg" group-title="SONY LIV",SONY PAL
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg" group-title="SONY LIV",SONY MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg" group-title="SONY LIV",SONY WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8 
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
+https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sony_Max_2.png" group-title="SONY LIV",SONY MAX 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8 
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SONY LIV",SONY AATH
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8 
-https://xfireflix.fun/Sl/index.m3u8/?id=2nQSvgSQSDFFVzBcLcRNxg%253D%253D&token=XFjrxXAkTp%252FdzGJV3tUjBQ%253D%253D
-#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="SONY LIV",SONY YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8 
+#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
+https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://seeklogo.com/images/S/sony-pix-logo-34A5FEEFA4-seeklogo.com.png" group-title="SONY LIV",SONY PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8 
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
+https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 
-#EXTINF: -1 tvg-id="12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="SONY LIV",SONY BBC EARTH
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="SONY LIV",SONY TEN 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 HD Hindi SonyLiv
+https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SONY LIV",SONY TEN 2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SONY LIV",SONY TEN 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies", Sony MAX 2 SonyLiv
+https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Sony_Six.png" group-title="SONY LIV",SONY TEN 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Sony_Six.png" group-title="SONY LIV",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids", Sony YAY SonyLiv
+https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 1 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 HD SonyLiv
+https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies", Sony WAH SonyLiv
+https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL SonyLiv
+https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",Sony Pix HD English SonyLiv
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Ten 3 Hindi SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 Hindi SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8
+
+
+#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Ten 5 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
+
+
+#EXTINF:-1 tvg-id=523 tvg-name="Sony Ten 2 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 SD SonyLiv
+https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
+
+
+
+#EXTINF:-1, SONY HD 195.181.169.162
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SAB HD 195.181.169.162
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY MAX HD 195.181.169.162
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 3 HD 195.181.169.162
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 1 HD 195.181.169.162
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY SPORTS 2 HD 195.181.169.162
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY PIX HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1, SONY BBC EARTH HD ENGLISH 195.181.169.162
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
