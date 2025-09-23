@@ -1199,7 +1199,7 @@ http://watchindia.net:8880/live/80817/80817/820.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=131cab559ea14d4bc33e1b13a119eb81&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=131cab559ea14d4bc33e1b13a119eb81
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/manifest.mpd
 #EXTINF:-1 tvg-id="61" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="61" group-title="DISH D2H by CRICFy",Zee Bangla Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
