@@ -426,6 +426,7 @@ https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sangeetbangla.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
 http://103.122.252.100:8080/SONY-TEN-1/tracks-v1a1/index.m3u8
 http://103.102.27.173/live/tvfeed1001/index.m3u8
@@ -713,7 +714,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
+https://live.dinesh29.com.np/stream/jiotv/sangeetbhojpuri/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png", SPORTS 18 1 HD
 https://mhdtvstream.com/live.php?id=1984&extension=.m3u8|Referer=https://mhdtvstream.com/
