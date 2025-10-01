@@ -111,9 +111,9 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-https://hls.ababiltv.com/TSports_HD/index.m3u8
+http://tv.bdiptv.store/live/restreauuX58y/refstream88/218.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
-http://103.15.140.138/tsports/index.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
@@ -123,7 +123,6 @@ https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3
 #http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_1.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
