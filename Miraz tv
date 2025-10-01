@@ -124,7 +124,7 @@ https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_1.m3u8
-https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_2.m3u8
+https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1759383783~acl=%2f*~data=hdntl~hmac=34f119ff5a1b199591c92264ec91549288cdf97073650acff215b46391182be6/level_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-1536x1536.png" group-title="BD.BANG.CH ( BDIX )",A1 Tv
 https://app.ncare.live/live-orgin/cha1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/ABtv-Log-.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",AB Tv
@@ -516,7 +516,7 @@ http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 https://raw.githubusercontent.com/Miraz6755/sonyliv2/refs/heads/main/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
+http://103.175.242.10:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401",Sony Sports 4 HD
