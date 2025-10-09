@@ -118,7 +118,7 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
-https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+https://v5on.site/PROXIMITY/cric.php?live=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/j277sWJKTOjI9AK-OKA2M9LOBWk6rTOv7872a5hP8m68tp-mz5nn1-3f6w4a2Kp0fEwBHgEEQmRVEI83L6F60Q/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/st_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 #http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
 https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
