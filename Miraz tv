@@ -430,6 +430,8 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sangeetbangla.
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://chatgpt.com/backend-api/estuary/content?id=file_00000000902861f48dcdc62ea72e5788&ts=489058&p=fs&cid=1&sig=98ba60b6473077da7a982305bc49c725f89d9b54adca701a5120b4d4f025921c&v=0" group-title="LIVE TV", Hindi Song
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
 http://103.122.252.100:8080/SONY-TEN-1/tracks-v1a1/index.m3u8
 http://103.102.27.173/live/tvfeed1001/index.m3u8
@@ -463,14 +465,14 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="LIVE TV", Goldmines
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="LIVE TV", Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="LIVE TV", GoldMines Movies
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
