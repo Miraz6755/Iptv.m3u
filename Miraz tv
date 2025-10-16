@@ -824,73 +824,52 @@ https://mhdtvstream.com/live.php?id=1998&extension=.m3u8|Referer=https://mhdtvst
 
 
 
-#EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="Entertainment", SET HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony ENT HD
+https://yflix.top/sliv1/live.php?id=1000009246&devtoken=TechPakao
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony SAB HD
+https://yflix.top/sliv1/live.php?id=1000009248&devtoken=TechPakao
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL HD
+https://yflix.top/sliv1/live.php?id=1000009273&devtoken=TechPakao
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Entertainment", Sony YAY HD
+https://yflix.top/sliv1/live.php?id=1000009271&devtoken=TechPakao
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment", Sony AATH HD
+https://yflix.top/sliv1/live.php?id=1000009255&devtoken=TechPakao
 
+#EXTINF:-1 tvg-id="Sony Liv HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="Entertainment", Sony Marathi HD
+https://yflix.top/sliv1/live.php?id=1000009259&devtoken=TechPakao
 
-#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/32_254.png" group-title="Entertainment", Sony Earth BBC
+https://yflix.top/sliv1/live.php?id=1000009252&devtoken=TechPakao
 
+#EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="Entertainment", Sony PIX HD
+https://yflix.top/sliv1/live.php?id=1000009258&devtoken=TechPakao
 
-#EXTINF:-1 tvg-id="Sony Max SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies", SONY Max SD SonyLiv
-https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Waw HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Entertainment", Sony WAW HD
+https://yflix.top/sliv1/live.php?id=1000009253&devtoken=TechPakao
 
-#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LOGO_HD/image.png" group-title="Movies", Sony MAX HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-id="Sony Max" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="Movies", Sony MAX 
+https://yflix.top/sliv1/live.php?id=1000009249&devtoken=TechPakao
 
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movie", Sony MAX HD
+https://yflix.top/sliv1/live.php?id=1000009247&devtoken=TechPakao
 
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 HD Hindi SonyLiv
-https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="Sony MAX 2 " tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="movies", Sony MAX HD 2
+https://yflix.top/sliv1/live.php?id=1000044878&devtoken=TechPakao
 
+#EXTINF:-1 tvg-id="Sony Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="Entertainment", Sony Sports 1 HD
+https://yflix.top/sliv1/live.php?id=1000009280&devtoken=TechPakao
 
-#EXTINF:-1 tvg-id="Sony Max 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="Movies", Sony MAX 2 SonyLiv
-https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
+#EXTINF:-1 tvg-id="Sony SPorts 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="Entertainment", Sony Sports 2 HD
+https://yflix.top/sliv1/live.php?id=1000009279&devtoken=TechPakao
 
+#EXTINF:-1 tvg-id="Sony Sports 3 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="Entertainment", Sony Sports 3 HD
+https://yflix.top/sliv1/live.php?id=1000009283&devtoken=TechPakao
 
-#EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Kids", Sony YAY SonyLiv
-https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Sports 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="Entertainment", Sony Sports4 HD
+https://yflix.top/sliv1/live.php?id=1000119187&devtoken=TechPakao
 
-
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 1 HD SonyLiv
-https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
-
-
-#EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 HD SonyLiv
-https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
-
-
-#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 HD SonyLiv
-https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Wah" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="Movies", Sony WAH SonyLiv
-https://dish.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8
-
-#EXTINF:-1 tvg-id="Sony Pal" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL SonyLiv
-https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
-
-#EXTINF:-1 tvg-id="English SONY_BBC_EARTH_HD" tvg-name="Sony BBC earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_BoxCover-v4/SOBBHD1_BoxCover.jpg",Sony BBC earth HD English SonyLiv
-https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
-
-#EXTINF:-1 tvg-id="English SONY_PIX_HD" tvg-name="Sony Pix HD" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",Sony Pix HD English SonyLiv
-https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
-
-
-#EXTINF:-1 tvg-name="Sony Ten 3 Hindi SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Sports Ten 3 Hindi SD SonyLiv
-https://dish.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8
-
-
-#EXTINF:-1 tvg-id=514 tvg-name="Sony Ten 1 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 SD SonyLiv
-https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
-
-
-#EXTINF:-1 tvg-name="Sony Ten 5 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 5 SD SonyLiv
-https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
-
-
-#EXTINF:-1 tvg-id=523 tvg-name="Sony Ten 2 SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Sports Ten 2 SD SonyLiv
-https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
+#EXTINF:-1 tvg-id="Sony Sports 5 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-title="Entertainment", Sony Sports 5 HD
+https://yflix.top/sliv1/live.php?id=1000009281&devtoken=TechPakao
 
 
 
