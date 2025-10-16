@@ -122,7 +122,7 @@ http://116.204.149.16/t_sports/index.m3u8
 https://v5on.site/PROXIMITY/cric.php?live=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/j277sWJKTOjI9AK-OKA2M9LOBWk6rTOv7872a5hP8m68tp-mz5nn1-3f6w4a2Kp0fEwBHgEEQmRVEI83L6F60Q/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/st_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.151.60.204/T-Sports/tracks-v1a1.mono.m3u8
-#http://103.122.252.100:8080/T-SPORTS/tracks-v1a1/index.m3u8
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_1.m3u8
@@ -547,7 +547,7 @@ https://tvsen5.aynaott.com/Ptvsports/mono.ts.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-https://rex-streaming.vercel.app/api/x/167569.m3u8
+http://144.217.76.135:8082/sami/index.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
