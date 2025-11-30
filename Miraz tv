@@ -116,7 +116,7 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://116.204.149.16/t_sports/index.m3u8
-https://tvsen7.aynaott.com/tsportshd/index.m3u8
+https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
@@ -319,7 +319,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
 http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
-https://serverss.noobmaster.xyz//009_Nagarik_TV/tracks-v1a1/mono.m3u8
+http://116.204.149.16/nagorik/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
 https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
