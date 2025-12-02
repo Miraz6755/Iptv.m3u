@@ -204,8 +204,9 @@ https://app.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="BD.BANG.CH ( BDIX )",MASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
-http://103.122.252.100:8080/MAASRANGA-TV/tracks-v1a1/index.m3u8
+#https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+#http://103.122.252.100:8080/MAASRANGA-TV/tracks-v1a1/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=78&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",MOHONA Tv HD
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pOagrG0WEV9RYM_jDCy_2Qir1aZ1nZLw6hw=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD.BANG.CH ( BDIX )",MOVIE BANGLA
@@ -370,7 +371,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 http://stream247.live:8080/starjalsha/index.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
-http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/index.m3u8
+#http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=14&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
@@ -403,7 +405,7 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cinema.m3u8
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
-https://serverss.noobmaster.xyz//057_Colors_Bangla_Cinema/tracks-v1a1/mono.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=43&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
@@ -650,11 +652,13 @@ https://mhdtvstream.com/live.php?id=1226&extension=.m3u8|Referer=https://mhdtvst
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
 https://mhdtvstream.com/live.php?id=1320&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
-https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=46&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/242.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=47&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
 https://mhdtvstream.com/live.php?id=1368&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", COLORS BANGLA SD
