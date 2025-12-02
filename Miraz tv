@@ -395,7 +395,8 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=46&e=.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=12&e=.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=47&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla
@@ -575,7 +576,8 @@ https://xfireflix.fun/opflix/stream.php?id=167575&e=.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 https://xfireflix.fun/opflix/stream.php?id=167581&e=.m3u8
-http://103.122.252.100:8080/STAR-SPORTS-1/tracks-v1a1/index.m3u8
+#http://103.122.252.100:8080/STAR-SPORTS-1/tracks-v1a1/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=2&e=.m3u8
 http://103.122.252.100:8080/STAR-SPORTS-3/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFDbRE9-bcTwGx0ICwOl5PwRZqMBNg9XIqA&usqp=CAU" group-title="LIVE TV",Star Select sports1
 http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/tracks-v1a1/index.m3u8
@@ -658,7 +660,7 @@ https://proxy.nettv.fun/basnet/stream.php?id=46&e=.m3u8
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/242.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=47&e=.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=45&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
 https://mhdtvstream.com/live.php?id=1368&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", COLORS BANGLA SD
