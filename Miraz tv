@@ -355,7 +355,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies 
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="", Sony Aath 
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8 
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=44&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
@@ -506,11 +507,11 @@ https://xfireflix.fun/Sl/index.m3u8/?id=2nQSvgSQSDFFVzBcLcRNxg%253D%253D&token=X
 https://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+#http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
-http://103.122.252.100:8080/A-SPORTS/tracks-v1a1/index.m3u8
-
+#http://103.122.252.100:8080/A-SPORTS/tracks-v1a1/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=88&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
@@ -545,7 +546,8 @@ https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 https://rex-streaming.vercel.app/api/x/167568.m3u8
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd?%7CdrmScheme=clearkey&drmLicense=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=92&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=ajD5dvzpJhtK3Y00sOOFUg&expires=1758022152|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
