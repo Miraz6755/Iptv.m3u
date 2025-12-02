@@ -329,6 +329,7 @@ https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g457N3b/unnamed.png" group-title="",Makkah Live
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rGV9Cfr/images.png" group-title="",Madina Live 
+https://proxy.nettv.fun/basnet/stream.php?id=83&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bHThL1h/unnamed-1.png" group-title="", Millennium TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmtBpRK/images.jpg" group-title="",Iqra bangla 
@@ -387,7 +388,10 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=22&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#https://wildearth-roku.amagi.tv/masterR720P.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=23&e=.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=25&e=.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=26&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
@@ -411,11 +415,12 @@ https://proxy.nettv.fun/basnet/stream.php?id=43&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
+#http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
+https://proxy.nettv.fun/basnet/stream.php?id=17&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
-https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
+#https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 #https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
