@@ -29,8 +29,10 @@ https://jadoo.iptvbd.xyz/jadoo.php?id=bangla_vision&e=.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l6c-PPJ1sgFS7b37M7GXWTsuJhHVO2eh81N2Okr6HGzQ=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE TV", Bijoy Tv hd
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
-
-
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/sami-tv.png",Sami TV
+https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://padmaonline.duckdns.org/uploads/tv_image/sm/padma-cable-vision.jpg",PCV
+https://padmaonline.duckdns.org:8088/pcv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10" group-title="LIVE TV", Biswa Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/mono.m3u8
 
@@ -118,7 +120,7 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=1&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 #http://116.204.149.16/t_sports/index.m3u8
-https://live.matribhumitv.com/matribhumi-sports/index.m3u8
+https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
@@ -321,9 +323,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTHV4bX/download.jpg" group-title="",Gaan Bangla 
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
-http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
+#http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
 http://116.204.149.16/nagorik/index.m3u8
-
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/560
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pJVbjVN/images-3.jpg" group-title="",Mohona TV
 https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g457N3b/unnamed.png" group-title="",Makkah Live
@@ -424,7 +426,7 @@ https://proxy.nettv.fun/basnet/stream.php?id=17&e=.m3u8
 https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
 #https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=19&e=.m3u8
+https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies
 #http://103.122.252.100:8080/JALSHA-MOVIES/tracks-v1a1/index.m3u8
 #https://serverss.noobmaster.xyz//055_Star_Jalsha_Movied_HD/tracks-v1a1/mono.m3u8
@@ -565,9 +567,10 @@ https://tvsen5.aynaott.com/Ptvsports/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://144.217.76.135:8082/sami/index.m3u8
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+https://flussonic.superfasthdserver.com/TenSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
 https://globalplay.live/fancode/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F136743_english_hls_36566c378196992ta-di_h264%2F480p.m3u8
