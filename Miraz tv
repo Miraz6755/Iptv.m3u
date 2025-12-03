@@ -388,12 +388,12 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
 #https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=22&e=.m3u8
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 #https://wildearth-roku.amagi.tv/masterR720P.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=23&e=.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=25&e=.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=26&e=.m3u8
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1637
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1641
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
