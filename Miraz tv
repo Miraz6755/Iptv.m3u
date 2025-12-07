@@ -378,7 +378,7 @@ http://stream247.live:8080/starjalsha/index.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 #http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=14&e=.m3u8
+http://87.255.35.150:18238/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
@@ -399,7 +399,7 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1641
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+http://87.255.35.150:18236/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
@@ -420,7 +420,7 @@ https://proxy.nettv.fun/basnet/stream.php?id=43&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 #http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=17&e=.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 #https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
