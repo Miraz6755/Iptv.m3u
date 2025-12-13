@@ -99,11 +99,15 @@ https://tv.bdixtv24.co/ayna/playlist.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports2.m3u
-#EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/h9ah09az4sc6km3/gtvbangladesh_logo_xyv4WQLRUA.png", GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdXqypgk/Picsart-24-10-31-12-11-00-605.webp", GTV
 http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=56&e=.m3u8
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/mono.m3u8
-https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
+#https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/rfQbkjH7/Picsart-25-12-08-06-54-33-449.webp" group-title="LIVE TV", Toffee Movie
+https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.ibb.co.com/dJHzrR4r/Picsart-25-12-08-06-54-03-261.webp" group-title="LIVE TV", Toffee Drama
+https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTcfQZ1Rjj4NkS6w2IORuV9cEMIkjP9xwryq81n9fv7m5GuLYrw-MECn1yi4sou3z8enPJNGVH3xMU8HPofLqiFNOrtHiVMzJqDPfBIeGiOTBfBXeOQFDGggXMGujZQUQj16ybn_iWQM95kV-c7iFWMDPqg6icd4dJdJzvyFDweHZm1GllpYb6z19uaLc/s1600/wwe-logo-png_seeklogo-368682%281%29_copy_900x900.png", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
