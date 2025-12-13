@@ -106,6 +106,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTcfQZ1Rjj4NkS6w2IORuV9cEMIkjP9xwryq81n9fv7m5GuLYrw-MECn1yi4sou3z8enPJNGVH3xMU8HPofLqiFNOrtHiVMzJqDPfBIeGiOTBfBXeOQFDGggXMGujZQUQj16ybn_iWQM95kV-c7iFWMDPqg6icd4dJdJzvyFDweHZm1GllpYb6z19uaLc/s1600/wwe-logo-png_seeklogo-368682%281%29_copy_900x900.png", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CLvFQlH72RrIbEgS5AcM-mf_owdM8HXCmz0O2jRMvvRKS8TMR1Rbg4g&s=10",WWE HD
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 ##https://linkchur.top/tv/jd/m3u8.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3u8
