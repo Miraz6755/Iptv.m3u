@@ -246,6 +246,7 @@ https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="BD.BANG.CH ( BDIX )",R TV HD
 http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/551
+https://tvsen6.aynaott.com/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-title="BD.BANG.CH ( BDIX )",RAJDANI
 https://app.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed.webp" group-title="BD.BANG.CH ( BDIX )",Ruposhi Bangla T
@@ -261,7 +262,7 @@ https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",Time Televison | USA
 https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",bangla21 tv
-https://app.ncare.live/live-orgin/bangla21tv000889956-sg.stream/playlist.m3u8
+https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/ibtv.jpg" group-title="BD.BANG.CH ( BDIX )",iBTV USA
 https://app.ncare.live/live-orgin/ibtvus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Kids",KIDS CREATION BANGLA
@@ -378,7 +379,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3
 https://tvsen3.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 #https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=18&e=.m3u8
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 http://87.255.35.150:18237/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
