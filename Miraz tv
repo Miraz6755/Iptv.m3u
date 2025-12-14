@@ -92,7 +92,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.122.252.100:8080/EKATTOR-TV/tracks-v1a1/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/IOBTZ6fuGpONg8UPn5_vaA/ip/172.69.78.143/id/2lV5aITTikI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AQn3pFRF85AOyHLNYSMYAwYJ7LUE6JHjDIdAyCP0tVldkFZJBiOi2-0nuzj8tMTjH-Of8u7gXGRtpGl_/spc/qtApAfViolvnmpoONZ0holGq1h2Gp9rjQsed8wURlJUj6BRQMtIQAdwSVUQ_ORE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51353498%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbkuMAYhlrLNLCvJJk33ZNnLBlmeq1fS3vLlly98hHaYCIDs_GsH7tpnpBvOkqF9tlxBUpYoWD4MHiCQLSg6rVcLc/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://shadinbanglanewstv.com/wp-content/uploads/2021/08/Logo-Resized.png" group-title="LIVE TV", Shadhin Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/tracks-v1a1/mono.m3u8
+https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg" group-title="LIVE TV",LIVE | IPL 2025
 https://tv.bdixtv24.co/ayna/playlist.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/web_thumbnail_LIVE(1)_64e4dd8e1a29e.jpg" group-title="LIVE TV", T Sports HD
@@ -548,10 +548,10 @@ https://xfireflix.fun/opflix/stream.php?id=167583&e=.m3u8
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 #https://raw.githubusercontent.com/Miraz6755/sonyliv2/refs/heads/main/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=74&e=.m3u8
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 http://103.175.242.10:8080/sonyten1/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=29&e=.m3u8
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 #https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=30&e=.m3u8
@@ -559,11 +559,11 @@ https://proxy.nettv.fun/basnet/stream.php?id=30&e=.m3u8
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=72&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-http://103.110.111.36:8081/live/spten5_720p/chunks.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=101&e=.m3u8
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#http://103.110.111.36:8081/live/spten5_720p/chunks.m3u8
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.roku.com/developer_channels/prod/dc316274271e75b874f404d085e8c19fd0e44559fcd3a82c85bad51fed6434cc.png" group-title="LIVE TV", Sony Liv HD
-https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
 #https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
