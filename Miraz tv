@@ -214,9 +214,9 @@ https://app.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="BD.BANG.CH ( BDIX )",MASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 #http://103.122.252.100:8080/MAASRANGA-TV/tracks-v1a1/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=78&e=.m3u8
+#https://proxy.nettv.fun/basnet/stream.php?id=78&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",MOHONA Tv HD
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78pOagrG0WEV9RYM_jDCy_2Qir1aZ1nZLw6hw=s900-c-k-c0xffffffff-no-rj-mo" group-title="BD.BANG.CH ( BDIX )",MOVIE BANGLA
