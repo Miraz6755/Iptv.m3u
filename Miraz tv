@@ -531,6 +531,8 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #http://103.122.252.100:8080/A-SPORTS/tracks-v1a1/index.m3u8
 https://m.xigzo.store/live/api/52106.m3u8
 https://m.xigzo.store/live/api/658436.m3u8
+https://m.xigzo.store/live/api/190767.m3u8
+https://m.xigzo.store/live/api/62393.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
@@ -567,7 +569,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
 #https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
-https://rex-streaming.vercel.app/api/x/167568.m3u8
+https://m.xigzo.store/live/api/52106.m3u8
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd?%7CdrmScheme=clearkey&drmLicense=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 #http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
@@ -580,7 +582,7 @@ https://tvsen5.aynaott.com/Ptvsports/mono.ts.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-http://144.217.76.135:8082/sami/index.m3u8
+https://m.xigzo.store/live/api/52080.m3u8
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
 https://flussonic.superfasthdserver.com/TenSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
