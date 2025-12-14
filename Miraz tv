@@ -132,6 +132,7 @@ https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+https://ayna.linkchur.top/apis/ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 #https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
@@ -445,6 +446,7 @@ https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1,Dhoom Music tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="Dhoom music"
 https://cdn-1.pishow.tv/live/1456/master.m3u8
+https://ayna.linkchur.top/apis/ayna/stream.php?id=67d12ffa-059f-4d79-a4e5-b36104d0af06&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Uny70t-T2TsCyzzt-8mnRfkRy0VLdl6g&s" group-title="LIVE TV",Tara Bangla cinema
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla 
