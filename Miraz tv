@@ -280,6 +280,7 @@ https://app.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg",Iqra Bagla Tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg",Madani Tv
+https://ayna.linkchur.top/apis/ayna/stream.php?id=32acaaeb-2b3b-4979-98d9-b45deecde3ec&e=.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkma Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
@@ -387,7 +388,7 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 http://87.255.35.150:18237/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-http://stream247.live:8080/starjalsha/index.m3u8
+https://ayna.linkchur.top/apis/ayna/stream.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 #http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/index.m3u8
@@ -603,7 +604,7 @@ https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 https://criccoder.pages.dev/astro.m3u8
 http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-https://xfireflix.fun/opflix/stream.php?id=167575&e=.m3u8
+https://ayna.linkchur.top/apis/ayna/stream.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
