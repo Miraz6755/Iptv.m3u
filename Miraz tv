@@ -57,11 +57,12 @@ http://103.122.252.100:8080/JAMUNA-TV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Logo_for_the_Web_Channel_Channel_5.jpeg" group-title="LIVE TV", Channel 5
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png" group-title="LIVE TV", Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/mono.m3u8
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtibqLaxAkUq2AjMg82-Prpk1rGvY1rXRMPUtPcd1j-H-P6VmkOiD6V0&s=10" group-title="LIVE TV", Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv-150x150.png" group-title="LIVE TV", Nexus TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHghA-axG3PTV1pV4mRg4NNKVzBKLVeP6vOQ&s" group-title="LIVE TV", Channel A1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
@@ -183,7 +184,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BD.BANG.CH ( BDIX )",Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",Channel S UK
-https://app.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
+https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/800px-DBC_News_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",DBC TV HD
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="BD.BANG.CH ( BDIX )",DEEPTO TV HD
@@ -202,7 +203,7 @@ https://tvsen6.aynaott.com/ekhontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BD.BANG.CH ( BDIX )",EKUSHEY TV
 https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png" group-title="BD.BANG.CH ( BDIX )",GLOBAL TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
+https://tvsen6.aynaott.com/durontotv-live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",I ON TV UK
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv.jpg" group-title="BD.BANG.CH ( BDIX )",IN-Zodiak TV
@@ -239,7 +240,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://tvsen5.aynaott.com/ntvbd/tracks-v1a1/mono.ts.m3u8
 https://tvsen7.aynaott.com/ntveurope/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="BD.BANG.CH ( BDIX )",NEWS 21 BANGLA
-https://app.ncare.live/live-orgin/news21bd.stream/playlist.m3u8
+https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="BD.BANG.CH ( BDIX )",NEWS 24 HD
 https://tvsen6.aynaott.com/news24/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BD.BANG.CH ( BDIX )",NEXUS TV HD
