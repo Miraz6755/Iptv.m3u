@@ -130,7 +130,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
 #http://103.175.242.10:8080/tsports1/index.m3u8
-https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 #http://116.204.149.16/t_sports/index.m3u8
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
@@ -524,6 +525,7 @@ https://tvsen6.aynaott.com/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 1
 https://tvsen6.aynaott.com/btSport1/tracks-v1a1/mono.ts.m3u8
+https://crichd.esportspk-com.workers.dev/live/bbtsp1.m3u8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="LIVE TV", TNT Sports 3
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
@@ -549,6 +551,7 @@ https://m.xigzo.store/live/api/190767.m3u8
 https://m.xigzo.store/live/api/62393.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://tvsen5.aynaott.com/willowhd/tracks-v1/mono.ts.m3u8
+https://crichd.esportspk-com.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
@@ -557,7 +560,7 @@ https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60
 #https://smart.bengaldigital.live/Star-Plus/index.m3u8
 https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/wqxaloav6c/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=9a1b6c795aa107e48d6be695705e112f:24f64f1bdfe33c496e293032e70775b3
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+https://crichd.esportspk-com.workers.dev/live/willowextra.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://xfireflix.fun/opflix/stream.php?id=167583&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" group-title="LIVE TV", Toffee Sports HD
@@ -593,17 +596,17 @@ https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=ajD5dvzpJhtK3Y00sOOFUg&expires
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
 https://tvsen5.aynaott.com/Ptvsports/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+https://crichd.esportspk-com.workers.dev/live/ptvpk.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://m.xigzo.store/live/api/52106.m3u8
-#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+https://crichd.esportspk-com.workers.dev/live/tenspk.m3u8
 https://flussonic.superfasthdserver.com/TenSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q" group-title="Live Tv", Fancode
 https://fancode.mafiatv.live/live.php?id=match_1&e=.m3u8
 https://globalplay.live/fancode/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F136743_english_hls_36566c378196992ta-di_h264%2F480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" group-title="LIVE TV", Sky Sports
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+https://crichd.esportspk-com.workers.dev/live/skyscric.m3u8
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/9258/index.m3u8
 https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=mG9J2IB27JtCJj9lXqdBxg&expires=1758022146|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" group-title="LIVE TV", Ten Cricket
@@ -619,7 +622,7 @@ https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-https://xfireflix.fun/opflix/stream.php?id=167581&e=.m3u8
+https://crichd.esportspk-com.workers.dev/live/star1in.m3u8
 #http://103.122.252.100:8080/STAR-SPORTS-1/tracks-v1a1/index.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=2&e=.m3u8
 http://103.122.252.100:8080/STAR-SPORTS-3/tracks-v1a1/index.m3u8
