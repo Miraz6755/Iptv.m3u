@@ -140,7 +140,7 @@ https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
 https://ayna.linkchur.top/apis/ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+http://103.96.235.18:9090/sports1/index.m3u8
 #https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" group-title="LIVE TV", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Asia@cup-2025/level_1.m3u8
@@ -548,7 +548,7 @@ https://app.hughag.store/api/b6a720edea/playlist.m3u8
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 https://m.xigzo.store/live/api/190767.m3u8
-https://m.xigzo.store/live/api/62393.m3u8
+http://103.96.235.18:9090/bd-tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://tvsen5.aynaott.com/willowhd/tracks-v1/mono.ts.m3u8
 https://crichd.esportspk-com.workers.dev/live/willowusa.m3u8
