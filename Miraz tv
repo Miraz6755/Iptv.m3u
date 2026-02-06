@@ -137,8 +137,8 @@ https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
-http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
-https://ayna.linkchur.top/apis/ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
+#http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+http://tv.banglaboxtv.top:8080/tsports/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.96.235.18:9090/sports1/index.m3u8
 #https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8%7Creferer=https://bdixtv24.cam/
