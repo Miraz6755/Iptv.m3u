@@ -135,7 +135,7 @@ https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 #http://116.204.149.16/t_sports/index.m3u8
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
-#https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
+http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
 https://khela.exmax.workers.dev/index.m3u8
 http://tv.banglaboxtv.top:8080/tsports/index.fmp4.m3u8?token=YwYfDeL0IoqC60
@@ -385,7 +385,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies 
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="", Sony Aath 
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+http://103.151.60.204/ZAHIR_EN8_90_110_P6/video.m3u8
 https://allottplay.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
@@ -414,7 +414,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla.m3u
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
 https://tvsen6.aynaott.com/discovery_hd/tracks-v1a1/mono.ts.m3u8
-#http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
+http://151.80.18.177:86/Discovery_HD/index.m3u8
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 #https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -424,7 +424,7 @@ https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
-http://87.255.35.150:18236/
+http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
@@ -522,6 +522,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776" group-title="LIVE TV", Nat Geo Tv
 https://tvsen6.aynaott.com/natgeo/index.m3u8
+http://217.20.112.199:8888/natgeowild/index.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 http://tv.banglaboxtv.top:8080/NAT_GEO/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 1
 https://tvsen6.aynaott.com/btSport1/tracks-v1a1/mono.ts.m3u8
