@@ -392,7 +392,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-https://tvsen3.aynaott.com/gUX8BJmNc2yF/index.m3u8
+http://tv.banglaboxtv.top:8080/STAR_JALSHA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 https://tvsen7.aynaott.com/sjhdbd/tracks-v1a1/mono.ts.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
@@ -429,8 +429,8 @@ http://87.255.35.150:18236/
 http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=12&e=.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=47&e=.m3u8
+http://tv.banglaboxtv.top:8080/COLORS_BANGLA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+http://tv.banglaboxtv.top:8080/COLORS_HD_BANGLA_CN/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla
@@ -452,7 +452,7 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3528.m3u8
 #https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies 
-#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+http://tv.banglaboxtv.top:8080/JALSHA_MOVIES/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies
 #http://103.122.252.100:8080/JALSHA-MOVIES/tracks-v1a1/index.m3u8
@@ -522,7 +522,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776" group-title="LIVE TV", Nat Geo Tv
 https://tvsen6.aynaott.com/natgeo/index.m3u8
-
+http://tv.banglaboxtv.top:8080/NAT_GEO/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="LIVE TV",TNT Sports 1
 https://tvsen6.aynaott.com/btSport1/tracks-v1a1/mono.ts.m3u8
 https://crichd.esportspk-com.workers.dev/live/bbtsp1.m3u8
@@ -744,9 +744,9 @@ https://mhdtvstream.com/live.php?id=1320&extension=.m3u8|Referer=https://mhdtvst
 #https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=46&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
+http://tv.banglaboxtv.top:8080/NICK/BAN1/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/242.m3u8
+http://tv.banglaboxtv.top:8080/SONIC/BAN/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 https://proxy.nettv.fun/basnet/stream.php?id=45&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
 https://mhdtvstream.com/live.php?id=1368&extension=.m3u8|Referer=https://mhdtvstream.com/
@@ -863,10 +863,10 @@ https://yflix.top/sliv1/live.php?id=1000009258&devtoken=TechPakao
 https://yflix.top/sliv1/live.php?id=1000009253&devtoken=TechPakao
 
 #EXTINF:-1 tvg-id="Sony Max" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="Movies", Sony MAX 
-https://yflix.top/sliv1/live.php?id=1000009249&devtoken=TechPakao
+http://tv.banglaboxtv.top:8080/MAX_HD/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 
 #EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movie", Sony MAX HD
-https://yflix.top/sliv1/live.php?id=1000009247&devtoken=TechPakao
+http://tv.banglaboxtv.top:8080/SONY_MAX_1/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 
 #EXTINF:-1 tvg-id="Sony MAX 2 " tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="movies", Sony MAX HD 2
 https://yflix.top/sliv1/live.php?id=1000044878&devtoken=TechPakao
