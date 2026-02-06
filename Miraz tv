@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports2.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdXqypgk/Picsart-24-10-31-12-11-00-605.webp", GTV
-https://ayna.linkchur.top/apis/ayna/stream.php?id=c7b00628-bc52-4609-be0a-ad02a16e4c04&chunks=tracks-v1a1%2Fmono.ts.m3u8
+http://172.16.29.2:8090/hls/gazitvhd.m3u8
 #http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/mono.m3u8
@@ -127,7 +127,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
 #http://103.175.242.10:8080/tsports1/index.m3u8
 #https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
@@ -137,7 +137,7 @@ https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
 https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
 #https://vod.tsports.com/16d7ff171e612d788950fcac7a949fc2/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TSports
-#http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
+https://khela.exmax.workers.dev/index.m3u8
 http://tv.banglaboxtv.top:8080/tsports/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://103.96.235.18:9090/sports1/index.m3u8
@@ -390,7 +390,7 @@ https://allottplay.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
-https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
+#https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 http://tv.banglaboxtv.top:8080/STAR_JALSHA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
@@ -399,7 +399,7 @@ https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 http://87.255.35.150:18237/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-https://ayna.linkchur.top/apis/ayna/stream.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb&e=.m3u8
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://xfireflix.my.id/MXP/1173096/index.m3u8
@@ -426,7 +426,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Colorsbn.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 http://87.255.35.150:18236/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
-http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/index.m3u8
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 http://tv.banglaboxtv.top:8080/COLORS_BANGLA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
@@ -439,7 +439,7 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema 
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla_Cinema.m3u8
-https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
 https://tvsen6.aynaott.com/ZeeBanglaCinema/tracks-v1a1/mono.ts.m3u8
 
 
@@ -455,7 +455,7 @@ https://smart.bengaldigital.live./sun-bangla-paid/index.m3u8
 http://tv.banglaboxtv.top:8080/JALSHA_MOVIES/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="Live Tv",Jalsha Movies
-#http://103.122.252.100:8080/JALSHA-MOVIES/tracks-v1a1/index.m3u8
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
 #https://serverss.noobmaster.xyz//055_Star_Jalsha_Movied_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Plus 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -472,7 +472,7 @@ https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sangeetbangla.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
-https://live.dinesh29.com.np/stream/jiotv/sangeetbangla/master.m3u8
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://chatgpt.com/backend-api/estuary/content?id=file_00000000902861f48dcdc62ea72e5788&ts=489058&p=fs&cid=1&sig=98ba60b6473077da7a982305bc49c725f89d9b54adca701a5120b4d4f025921c&v=0" group-title="LIVE TV", Hindi Song
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
@@ -539,18 +539,18 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
 http://103.122.252.100:8080/SONY-AATH/tracks-v1a1/index.m3u8
-https://xfireflix.fun/Sl/index.m3u8/?id=2nQSvgSQSDFFVzBcLcRNxg%253D%253D&token=XFjrxXAkTp%252FdzGJV3tUjBQ%253D%253D
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
 https://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="LIVE TV", A Sports HD
 #http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 https://m.xigzo.store/live/api/190767.m3u8
 http://103.96.235.18:9090/bd-tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
-https://tvsen5.aynaott.com/willowhd/tracks-v1/mono.ts.m3u8
+http://172.16.29.2:8090/hls/willowcrickethd.m3u8
 https://crichd.esportspk-com.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
@@ -573,7 +573,7 @@ http://103.175.242.10:8080/sonyten1/index.m3u8
 https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 #https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-https://proxy.nettv.fun/basnet/stream.php?id=30&e=.m3u8
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401",Sony Sports 4 HD
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 https://proxy.nettv.fun/basnet/stream.php?id=72&e=.m3u8
@@ -617,7 +617,7 @@ https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 https://criccoder.pages.dev/astro.m3u8
 http://bostv.one:8080/live/kamal@555/kamal@555/92704.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
-https://ayna.linkchur.top/apis/ayna/stream.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE TV",Star sports 1
 https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8
@@ -633,7 +633,7 @@ http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 https://tvsen7.aynaott.com/ssps2hd/tracks-v1a1/mono.ts.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://medianet.mv/media/channel/179x0-icon.png" group-title="LIVE TV",Star sports 2
-http://103.122.252.100:8080/STAR-SPORTS-2/tracks-v1a1/index.m3u8
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [ENG]
@@ -840,7 +840,7 @@ https://mhdtvstream.com/live.php?id=1998&extension=.m3u8|Referer=https://mhdtvst
 
 
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony ENT HD
-https://yflix.top/sliv1/live.php?id=1000009246&devtoken=TechPakao
+http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony SAB HD
 https://yflix.top/sliv1/live.php?id=1000009248&devtoken=TechPakao
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL HD
@@ -848,7 +848,7 @@ https://yflix.top/sliv1/live.php?id=1000009273&devtoken=TechPakao
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Entertainment", Sony YAY HD
 https://yflix.top/sliv1/live.php?id=1000009271&devtoken=TechPakao
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment", Sony AATH HD
-https://yflix.top/sliv1/live.php?id=1000009255&devtoken=TechPakao
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
 
 #EXTINF:-1 tvg-id="Sony Liv HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="Entertainment", Sony Marathi HD
 https://yflix.top/sliv1/live.php?id=1000009259&devtoken=TechPakao
@@ -869,7 +869,7 @@ http://tv.banglaboxtv.top:8080/MAX_HD/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 http://tv.banglaboxtv.top:8080/SONY_MAX_1/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 
 #EXTINF:-1 tvg-id="Sony MAX 2 " tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="movies", Sony MAX HD 2
-https://yflix.top/sliv1/live.php?id=1000044878&devtoken=TechPakao
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 
 #EXTINF:-1 tvg-id="Sony Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="Entertainment", Sony Sports 1 HD
 https://yflix.top/sliv1/live.php?id=1000009280&devtoken=TechPakao
