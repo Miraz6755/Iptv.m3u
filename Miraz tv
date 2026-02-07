@@ -570,7 +570,8 @@ http://103.96.235.18:9090/bd-tsports/index.m3u8
 http://172.16.29.2:8090/hls/willowcrickethd.m3u8
 https://crichd.esportspk-com.workers.dev/live/willowusa.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
-https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
+https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hl357m4nu3/out/v1/1b3f44d701684a27baedac188302ec54/cenc.mpd?|drmScheme=clearkey&drmLicense=2fb5f5b56d6dbae921b0ddb8d4b3d5ba:06111b11c7900395ac57c35c67d45685
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd|drmScheme=clearkey&drmLicense=9c8743426487c9074b60b456dda93e4d:643e4f68ec9e3309b7e1e61b95bec85d
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
