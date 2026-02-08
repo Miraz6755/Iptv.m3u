@@ -301,14 +301,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://lh5.googleusercontent.com/proxy/f35gGM7q7nbQRWPh0x8K4_eHeQKpYqE-PzUOQ0GSRTLOM8Z4jlvWGSroVc5TDXKZAQG1Z0fu55vzqh3RU6_EI56c" group-title="LIVE TV", Ib tv usa
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjAwIFBNJmhhc2hfdmFsdWU9eTdsM20vR1lZMTl1Y1BOMWdXeDFUUT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="LIVE TV", Amar Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjI3IFBNJmhhc2hfdmFsdWU9enFoellOakNyTFFvTGNGdkJzQTg3dz09JnZhbGlkbWludXRlcz00MA==
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://bdixtv24.com/uploads/tv_image/amar-digital.png" group-title="LIVE TV", Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA0OjU0IFBNJmhhc2hfdmFsdWU9TXljZGx5T0lTT01HOHBySlFGTitlZz09JnZhbGlkbWludXRlcz00MA==
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8982qM-EskoAcbJM3MZO9-Hz7CeTTtUTQULWuWbQKMIQkiv4zT6dMzTA&s=10" group-title="LIVE TV", Anando barta
 https://app24.jagobd.com.bd /c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA1OjI4IFBNJmhhc2hfdmFsdWU9Qk5LTVA3a2h2TTBLZXlSRk5BSE9LUT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://bdixtv24.com/uploads/tv_image/mon-tv-bangla.png" group-title="LIVE TV", Mon Tv
-http://bostv.one:8080/live/kamal@555/kamal@555/131991.m3u8
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsNX3p6lkHE-FuizLDv0TPnGXjFoxRmX1tw&s" group-title="LIVE TV", Zodiak tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA4OjQ5IFBNJmhhc2hfdmFsdWU9dzF3N3pIaEtLRjZQbk55K1NwTG1jUT09JnZhbGlkbWludXRlcz00MA==
