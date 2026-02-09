@@ -408,7 +408,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha 
 #https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-http://tv.banglaboxtv.top:8080/STAR_JALSHA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 https://tv.ottking.top/ottking247/fuckyou/2.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
@@ -425,7 +425,7 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
-https://tv.ottking.top/ottking247/fuckyou/1.m3u8
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
@@ -441,7 +441,7 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1641
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
-https://tv.ottking.top/ottking247/fuckyou/28.m3u8
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 http://103.180.212.191:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
@@ -511,7 +511,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9scc-YMzlkpBG0inmRt6fcFAICZxC0vlSz80JuKI_xni4VY_P5cuQLf8j&s=10",9xm 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwj2TS9uLyHM72YktPV2EY4bkpALF2iIcOYzRd1iwSGPTlgOWL4s2CDKos&s=10",Yrf music 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/74b215e9-e03d-45de-854f-0c5f3030e8a2/4.m3u8 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/74b215e9-e03d-45de-854f-0c5f3030e8a2/4.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1vD2a-b01XRATJEs_sO0w4yRrQ6RR9G5LUiuk4p6mqE5PxLwVrGeT5A&s=10",Shemaroo filmy gaane 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/2515c090-3d53-443f-9654-a7e74a6acf06/0.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp" group-title="LIVE TV", Shemaroo Bollywood
@@ -528,7 +529,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
-https://tv.ottking.top/ottking247/fuckyou/86.m3u8
+https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 https://tv.ottking.top/ottking247/fuckyou/118.m3u8
@@ -891,7 +892,7 @@ https://yflix.top/sliv1/live.php?id=1000009253&devtoken=TechPakao
 http://tv.banglaboxtv.top:8080/MAX_HD/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 
 #EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movie", Sony MAX HD
-http://tv.banglaboxtv.top:8080/SONY_MAX_1/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony MAX 2 " tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="movies", Sony MAX HD 2
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
@@ -1356,10 +1357,10 @@ https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?id=2cb97d9e6f85c26a6fcd243e4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://s1.thenayeemparvez.xyz/dishtvxd/service.mpd?cid=2b3970db7e7c4066cdfbda4fb5aa3575&drm=true
 #EXTVLCOPT:http-user-agent=KAIOS
-http://watchindia.net:8880/live/40972/04523/787.m3u8
-https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=152
-https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=150
-https://www.its-ferdos-alom.top/sp/mac/script.m3u8?id=151
+https://padmaonline.duckdns.org:8088/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+https://padmaonline.duckdns.org:8088/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="67" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="67" group-title="DISH D2H by CRICFy",Zee Cinemalu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
