@@ -868,11 +868,11 @@ https://mhdtvstream.com/live.php?id=1998&extension=.m3u8|Referer=https://mhdtvst
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony ENT HD
 http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="Entertainment", Sony SAB HD
-https://yflix.top/sliv1/live.php?id=1000009248&devtoken=TechPakao
+http://103.99.249.139/sonysab/index.m3u8
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="Entertainment", Sony PAL HD
 https://yflix.top/sliv1/live.php?id=1000009273&devtoken=TechPakao
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="Entertainment", Sony YAY HD
-https://yflix.top/sliv1/live.php?id=1000009271&devtoken=TechPakao
+http://103.99.249.139/sonyyay/index.m3u8
 #EXTINF:-1 tvg-id="Sony Sab HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="Entertainment", Sony AATH HD
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 
@@ -889,7 +889,7 @@ https://yflix.top/sliv1/live.php?id=1000009258&devtoken=TechPakao
 https://yflix.top/sliv1/live.php?id=1000009253&devtoken=TechPakao
 
 #EXTINF:-1 tvg-id="Sony Max" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="Movies", Sony MAX 
-http://tv.banglaboxtv.top:8080/MAX_HD/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="Movie", Sony MAX HD
 https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
@@ -939,7 +939,7 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
-https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s" group-title="LIVE TV",& Tv HD
 https://baskardo.vip/IN_And/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrp8RAt22ZNapXiBW8BkH_lu_COswJ8Vd8w&s" group-title="LIVE TV",& ZEE TVHD
