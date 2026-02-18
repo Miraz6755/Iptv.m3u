@@ -847,8 +847,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/sangeetbhojpuri/stream_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png", SPORTS 18 1 HD
-https://mhdtvstream.com/live.php?id=1984&extension=.m3u8|Referer=https://mhdtvstream.com/
-https://cdn.hoichoi24.com/sports-sports18hd-english/tracks-v1a1/mono.m3u8
+http://103.99.249.139/starsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png", SPORTS 18 1
 https://mhdtvstream.com/live.php?id=1985&extension=.m3u8|Referer=https://mhdtvstream.com/
@@ -904,7 +903,7 @@ https://yflix.top/sliv1/live.php?id=1000009280&devtoken=TechPakao
 https://yflix.top/sliv1/live.php?id=1000009279&devtoken=TechPakao
 
 #EXTINF:-1 tvg-id="Sony Sports 3 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="Entertainment", Sony Sports 3 HD
-https://yflix.top/sliv1/live.php?id=1000009283&devtoken=TechPakao
+http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Sports 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="Entertainment", Sony Sports4 HD
 https://yflix.top/sliv1/live.php?id=1000119187&devtoken=TechPakao
@@ -940,6 +939,7 @@ http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVQnSxQG4CnCLpw_VPlkXIHO89O5i_qkwGA&s" group-title="LIVE TV",& picturesHD
 http://103.99.249.139/zeecinema/index.m3u8
+https://padmaonline.duckdns.org:8088/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9TbcxD0Jkks344dHfkxRw5B_07floLcloQ&s" group-title="LIVE TV",& Tv HD
 https://baskardo.vip/IN_And/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrp8RAt22ZNapXiBW8BkH_lu_COswJ8Vd8w&s" group-title="LIVE TV",& ZEE TVHD
@@ -947,7 +947,7 @@ https://baskardo.vip/IS_ZE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-plus-hd.png" group-title="LIVE TV",StarplusHD
 http://tv.bdiptv.store:80/live/restreauuX58/refstream/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="LIVE TV",ColorsHD
-https://baskardo.vip/IN_CTVS/index.m3u8
+http://103.99.249.139/colors/index.m3u8
 
 
 ###Kids
