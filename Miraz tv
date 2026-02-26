@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/T-SportsHD1.m3
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TsportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-https://tv.ottking.top/ottking247/fuckyou/166.m3u8
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
@@ -355,7 +355,7 @@ https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
 #http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
 http://116.204.149.16/nagorik/index.m3u8
-http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/560
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="LIVE TV", Green Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
 https://publlicip.tvhunter.top/ZGH/tracks-v1a1/mono.m3u8
@@ -398,7 +398,7 @@ https://tv.ottking.top/ottking247/fuckyou/126.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xXcykQj/unnamed.jpg" group-title="", RDC Movies 
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="", Sony Aath 
-http://103.175.73.12:8080/live/196/196_0.m3u8
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 http://172.16.29.2:8090/hls/SonyAtth.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYWAARdf07wfpj3GwbgsdqDoShXNLiHaecw&s" group-title="Entertainment", Star Bangla
@@ -410,7 +410,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-http://103.175.73.12:8080/live/194/194_0.m3u8
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
 http://87.255.35.150:18237/
@@ -448,8 +448,8 @@ http://103.180.212.191:3500/live/756.m3u8
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-http://tv.banglaboxtv.top:8080/COLORS_BANGLA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
-http://tv.banglaboxtv.top:8080/COLORS_HD_BANGLA_CN/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla
@@ -575,7 +575,7 @@ https://m.xigzo.store/live/api/190767.m3u8
 http://103.96.235.18:9090/bd-tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 http://172.16.29.2:8090/hls/willowcrickethd.m3u8
-https://crichd.esportspk-com.workers.dev/live/willowusa.m3u8
+http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",Willow TV
 https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hl357m4nu3/out/v1/1b3f44d701684a27baedac188302ec54/cenc.mpd?|drmScheme=clearkey&drmLicense=2fb5f5b56d6dbae921b0ddb8d4b3d5ba:06111b11c7900395ac57c35c67d45685
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd|drmScheme=clearkey&drmLicense=9c8743426487c9074b60b456dda93e4d:643e4f68ec9e3309b7e1e61b95bec85d
