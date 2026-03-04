@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg" group-title="LIVE TV", T Sports HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports2.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdXqypgk/Picsart-24-10-31-12-11-00-605.webp", GTV
-http://172.16.29.2:8090/hls/gazitvhd.m3u8
+http://tvn2.chowdhury-shaheb.com/gazitv/index.m3u8
 #http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/mono.m3u8
