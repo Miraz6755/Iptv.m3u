@@ -276,6 +276,10 @@ https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x67896" group-title="BD.BANG.CH ( BDIX )",bangla21 tv
 https://tvsen6.aynaott.com/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Channel_16_Bangladesh_Logo.png" group-title="LIVE TV", Channel 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/news21-1.png" group-title="LIVE TV", News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/ibtv.jpg" group-title="BD.BANG.CH ( BDIX )",iBTV USA
 https://tvsen7.aynaott.com/ibtvusa/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Kids",KIDS CREATION BANGLA
@@ -490,8 +494,7 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="LIVE TV", Akash Aath
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
-#EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Mirazofficial",SANGEET BANGLA 
-https://tv.ottking.top/ottking247/fuckyou/9.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3b12d1cb90afa9ed754c80bbcfa0d400.png" group-title="Mirazofficial",SANGEET BANGLA 
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
