@@ -437,9 +437,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
 http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
-http://151.80.18.177:86/Discovery_HD/index.m3u8
+http://103.140.254.2:3500/live/573.m3u8
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
-http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+http://103.140.254.2:3500/live/575.m3u8
 http://103.112.62.174:8080/Discovery_bangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 #https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -536,7 +536,7 @@ http://watchindia.net:8880/live/40972/04523/1955.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8 
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iD6IX0Pi0JlGltizmKbteZhNK-D4L-Dr3wMFuj_NolOEDbxTSHC7YRg&s=10",E24 
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8 
+http://103.140.254.2:3500/live/591.m3u8 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC 
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-f
 https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
@@ -746,6 +746,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/371470.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="music", Zoom
 http://103.175.73.12:8080/live/153/153_0.m3u8
+http://103.140.254.2:3500/live/592.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Elche-VS-Las-Palmas_old.jpg" group-title="Football", Elche vs Las Palmas (Copa del Rey 2024-25)
 
