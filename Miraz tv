@@ -359,7 +359,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV
 #http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
-http://116.204.149.16/nagorik/index.m3u8
+http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="LIVE TV", Green Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
@@ -424,7 +424,7 @@ http://87.255.35.150:18237/
 http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 http://192.168.91.8/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
-https://xfireflix.my.id/MXP/1173096/index.m3u8
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -436,7 +436,7 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mcWKh1G/images.png" group-title="",Discovery Bangla
-https://tvsen6.aynaott.com/discovery_hd/tracks-v1a1/mono.ts.m3u8
+http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
@@ -444,7 +444,7 @@ http://103.112.62.174:8080/Discovery_bangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 #https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1637
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1641
+http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
@@ -471,7 +471,7 @@ https://tvsen6.aynaott.com/ZeeBanglaCinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 #http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
-http://tv.banglaboxtv.top:8080/SUN_BANGLA/index.fmp4.m3u8?token=YwYfDeL0IoqC60
+http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
 #https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
