@@ -261,8 +261,8 @@ https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 http://tvn2.chowdhury-shaheb.com/rtv/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-title="BD.BANG.CH ( BDIX )",RAJDANI
-https://app.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-title="BD.BANG.CH ( BDIX )",RAJDANI Tv
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed.webp" group-title="BD.BANG.CH ( BDIX )",Ruposhi Bangla T
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://testing.aibd.org.my/wp-content/uploads/2013/06/satv.png" group-title="BD.BANG.CH ( BDIX )",SA Tv HD
@@ -500,6 +500,7 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="LIVE TV", Akash Aath
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3b12d1cb90afa9ed754c80bbcfa0d400.png" group-title="Mirazofficial",SANGEET BANGLA 
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
