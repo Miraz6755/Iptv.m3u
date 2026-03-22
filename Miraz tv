@@ -505,6 +505,8 @@ https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYaijViJVvfErfr9WqvCEMJMyvqHUVwWBoabmILpBdg&s=10" group-title="LIVE TV",T Series
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://chatgpt.com/backend-api/estuary/content?id=file_00000000902861f48dcdc62ea72e5788&ts=489058&p=fs&cid=1&sig=98ba60b6473077da7a982305bc49c725f89d9b54adca701a5120b4d4f025921c&v=0" group-title="LIVE TV", Hindi Song
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmwNXsX/Picsart-24-10-20-13-48-30-678.jpg" group-title="",Ten 1 
