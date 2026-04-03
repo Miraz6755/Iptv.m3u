@@ -415,6 +415,8 @@ http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 https://ottking.top/toffe/sonyaath.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ETV_Balya_Bharat_Bangla_logo_%282021-present%29.png/revision/latest?cb=20210423104132" group-title="", Bangla Cinema
+http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYWAARdf07wfpj3GwbgsdqDoShXNLiHaecw&s" group-title="Entertainment", Star Bangla
 https://tv.ottking.top/ottking247/fuckyou/196.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
