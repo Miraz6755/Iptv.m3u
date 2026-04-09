@@ -451,7 +451,7 @@ http://103.140.254.2:3500/live/573.m3u8
 https://ottking.top/toffe/discovery_hd.m3u8
 http://103.140.254.2:3500/live/575.m3u8
 http://103.112.62.174:8080/Discovery_bangla/index.m3u8
-https://tv.ottking.top/webottking/linkchor/4.m3u8
+http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YnDqifDB0ofdogr1NgxbW5Z1FXDldhsLctKRIaJ_rEaE5VzDEXhtdRtXoq4XfV7jM4U&usqp=CAU" group-title="LIVE TV", Wildearth HD
 #https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1637
@@ -796,12 +796,12 @@ https://mhdtvstream.com/live.php?id=1226&extension=.m3u8|Referer=https://mhdtvst
 https://mhdtvstream.com/live.php?id=1320&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
 #https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
-http://103.175.73.12:8080/live/322/322_0.m3u8
+http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png", NICK BANGLA 
 http://tv.banglaboxtv.top:8080/NICK/BAN1/index.fmp4.m3u8?token=YwYfDeL0IoqC60
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", SONIC BANGLA 
 http://tv.banglaboxtv.top:8080/SONIC/BAN/index.fmp4.m3u8?token=YwYfDeL0IoqC60
-https://proxy.nettv.fun/basnet/stream.php?id=45&e=.m3u8
+http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png", COLORS SD
 https://mhdtvstream.com/live.php?id=1368&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png", COLORS BANGLA SD
